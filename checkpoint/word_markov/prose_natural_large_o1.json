@@ -1,0 +1,7059 @@
+{
+  "order": 1,
+  "next_tokens": {
+    "[]": {
+      "The": 43,
+      "Rain": 1,
+      "She": 16,
+      "He": 12,
+      "They": 2,
+      "Snow": 1,
+      "Midnight": 1,
+      "Every": 1,
+      "Winter": 1
+    },
+    "[\"The\"]": {
+      " ": 116
+    },
+    "[\" \"]": {
+      "kitchen": 1,
+      "had": 172,
+      "been": 22,
+      "cold": 4,
+      "all": 18,
+      "morning": 3,
+      "and": 301,
+      "the": 592,
+      "warmth": 3,
+      "of": 177,
+      "oven": 2,
+      "felt": 4,
+      "like": 15,
+      "a": 233,
+      "decision": 2,
+      "someone": 7,
+      "finally": 4,
+      "made": 11,
+      "She": 25,
+      "measured": 2,
+      "flour": 1,
+      "twice": 4,
+      "still": 23,
+      "could": 20,
+      "not": 50,
+      "quite": 8,
+      "believe": 2,
+      "amount": 1,
+      "Outside": 1,
+      "first": 6,
+      "leaves": 1,
+      "autumn": 5,
+      "turned": 7,
+      "against": 12,
+      "glass": 3,
+      "small": 23,
+      "deliberate": 3,
+      "There": 10,
+      "was": 146,
+      "particular": 11,
+      "comfort": 2,
+      "in": 93,
+      "bread": 4,
+      "she": 52,
+      "thought": 8,
+      "how": 1,
+      "it": 157,
+      "required": 1,
+      "patience": 7,
+      "gave": 6,
+      "back": 15,
+      "something": 5,
+      "solid": 1,
+      "By": 5,
+      "time": 8,
+      "bake": 1,
+      "done": 3,
+      "whole": 20,
+      "house": 13,
+      "orientated": 1,
+      "itself": 7,
+      "around": 6,
+      "smell": 9,
+      "began": 4,
+      "as": 42,
+      "suggestion": 1,
+      "on": 43,
+      "windowsill": 3,
+      "then": 6,
+      "became": 1,
+      "demand": 1,
+      "He": 27,
+      "watched": 3,
+      "gather": 1,
+      "dips": 1,
+      "cobbles": 1,
+      "each": 7,
+      "puddle": 1,
+      "opinion": 1,
+      "about": 18,
+      "weather": 13,
+      "The": 73,
+      "bus": 2,
+      "late": 4,
+      "way": 20,
+      "always": 8,
+      "when": 14,
+      "sky": 5,
+      "make": 1,
+      "up": 29,
+      "its": 46,
+      "mind": 4,
+      "learned": 21,
+      "to": 117,
+      "bring": 1,
+      "book": 1,
+      "those": 1,
+      "mornings": 6,
+      "quiet": 10,
+      "insurance": 1,
+      "world's": 2,
+      "indecision": 1,
+      "When": 6,
+      "came": 24,
+      "arrived": 4,
+      "full": 11,
+      "wet": 2,
+      "umbrellas": 1,
+      "cheerful": 1,
+      "apologies": 1,
+      "old": 13,
+      "bridge": 8,
+      "at": 41,
+      "edge": 4,
+      "town": 43,
+      "outlasted": 1,
+      "three": 4,
+      "generations": 2,
+      "repairs": 1,
+      "one": 29,
+      "entire": 2,
+      "war": 2,
+      "Its": 5,
+      "stones": 3,
+      "set": 5,
+      "by": 42,
+      "men": 9,
+      "whose": 3,
+      "names": 5,
+      "were": 35,
+      "carved": 1,
+      "nowhere": 1,
+      "remembered": 4,
+      "everyone": 4,
+      "anyway": 2,
+      "Underneath": 1,
+      "river": 10,
+      "kept": 33,
+      "own": 18,
+      "schedule": 3,
+      "indifferent": 1,
+      "traffic": 2,
+      "above": 2,
+      "On": 11,
+      "slow": 4,
+      "evenings": 6,
+      "fishermen": 2,
+      "would": 18,
+      "lean": 2,
+      "rail": 1,
+      "trade": 2,
+      "same": 19,
+      "stories": 3,
+      "their": 33,
+      "fathers": 1,
+      "did": 20,
+      "A": 8,
+      "good": 4,
+      "they": 28,
+      "said": 9,
+      "simply": 7,
+      "patient": 8,
+      "found": 5,
+      "letter": 3,
+      "drawer": 1,
+      "opened": 3,
+      "years": 20,
+      "folded": 1,
+      "faint": 1,
+      "with": 62,
+      "age": 2,
+      "Reading": 1,
+      "brought": 2,
+      "summer": 8,
+      "almost": 2,
+      "managed": 2,
+      "forget": 1,
+      "light": 18,
+      "heartbreak": 1,
+      "handwriting": 1,
+      "changed": 3,
+      "though": 8,
+      "sender": 1,
+      "gone": 5,
+      "now": 6,
+      "sat": 9,
+      "long": 16,
+      "paper": 2,
+      "her": 27,
+      "hands": 6,
+      "deciding": 1,
+      "whether": 3,
+      "keep": 2,
+      "or": 5,
+      "let": 8,
+      "go": 5,
+      "In": 14,
+      "end": 2,
+      "put": 2,
+      "exactly": 6,
+      "where": 12,
+      "village": 8,
+      "woke": 1,
+      "fog": 3,
+      "so": 11,
+      "thick": 2,
+      "church": 3,
+      "bells": 1,
+      "sounded": 2,
+      "if": 8,
+      "from": 18,
+      "another": 5,
+      "country": 2,
+      "Gardens": 1,
+      "loomed": 1,
+      "vanished": 2,
+      "grey": 6,
+      "woodsmoke": 2,
+      "traveled": 1,
+      "further": 1,
+      "than": 23,
+      "any": 5,
+      "right": 6,
+      "Old": 1,
+      "Mrs": 1,
+      "Albright": 1,
+      "meant": 3,
+      "hard": 3,
+      "winter": 8,
+      "that": 65,
+      "every": 21,
+      "crossroads": 3,
+      "caf": 3,
+      "argued": 6,
+      "cheerfully": 1,
+      "settled": 3,
+      "nothing": 8,
+      "noon": 3,
+      "lifted": 1,
+      "day": 7,
+      "apologized": 1,
+      "turning": 6,
+      "warm": 4,
+      "spent": 4,
+      "lifetime": 1,
+      "learning": 2,
+      "repair": 1,
+      "things": 8,
+      "skill": 1,
+      "thickened": 1,
+      "into": 11,
+      "kind": 10,
+      "second": 2,
+      "sight": 1,
+      "loose": 1,
+      "hinge": 1,
+      "weeping": 1,
+      "tap": 1,
+      "chair": 2,
+      "tilted": 1,
+      "no": 16,
+      "looking": 6,
+      "them": 31,
+      "spoke": 2,
+      "him": 22,
+      "voices": 2,
+      "His": 4,
+      "shabbiest": 1,
+      "street": 1,
+      "because": 12,
+      "there": 13,
+      "neighbor": 1,
+      "more": 11,
+      "urgent": 1,
+      "he": 36,
+      "Everyone": 1,
+      "knew": 18,
+      "find": 4,
+      "his": 27,
+      "workshop": 3,
+      "after": 3,
+      "supper": 1,
+      "surrounded": 1,
+      "evidence": 4,
+      "usefulness": 2,
+      "library": 2,
+      "window": 4,
+      "faced": 2,
+      "square": 5,
+      "fell": 2,
+      "across": 4,
+      "reading": 1,
+      "tables": 2,
+      "pieces": 1,
+      "It": 53,
+      "building": 5,
+      "accumulated": 1,
+      "silence": 6,
+      "houses": 3,
+      "accumulate": 1,
+      "dust": 2,
+      "librarian": 1,
+      "regulars": 2,
+      "books": 1,
+      "chose": 1,
+      "never": 10,
+      "cat": 3,
+      "course": 1,
+      "seemed": 9,
+      "hold": 2,
+      "century": 2,
+      "rainy": 1,
+      "afternoons": 4,
+      "place": 12,
+      "listen": 1,
+      "planted": 2,
+      "orchard": 2,
+      "spring": 7,
+      "ended": 2,
+      "mostly": 5,
+      "have": 10,
+      "look": 3,
+      "forward": 1,
+      "Forty": 1,
+      "later": 2,
+      "trees": 4,
+      "stood": 13,
+      "generous": 2,
+      "rows": 1,
+      "older": 5,
+      "children": 14,
+      "who": 14,
+      "climbed": 2,
+      "apples": 2,
+      "worth": 4,
+      "much": 9,
+      "anyone": 7,
+      "deformed": 1,
+      "free": 1,
+      "but": 34,
+      "theirs": 1,
+      "Every": 2,
+      "fuss": 1,
+      "harvest": 1,
+      "pies": 1,
+      "cider": 2,
+      "arguments": 2,
+      "tree": 6,
+      "best": 8,
+      "for": 40,
+      "part": 3,
+      "counsel": 1,
+      "station": 3,
+      "clock": 2,
+      "fifteen": 1,
+      "minutes": 1,
+      "fast": 1,
+      "remember": 3,
+      "fact": 2,
+      "quietly": 1,
+      "accepted": 2,
+      "Travelers": 1,
+      "missed": 1,
+      "trains": 2,
+      "wrong": 8,
+      "side": 4,
+      "certainty": 1,
+      "Still": 1,
+      "ever": 7,
+      "fixed": 3,
+      "fixing": 1,
+      "undone": 1,
+      "trust": 2,
+      "timetable": 1,
+      "wall": 6,
+      "agreed": 2,
+      "world": 6,
+      "uncertainties": 1,
+      "liked": 5,
+      "least": 4,
+      "reliably": 1,
+      "took": 3,
+      "walking": 3,
+      "beach": 1,
+      "low": 5,
+      "tide": 6,
+      "water": 14,
+      "pulled": 1,
+      "far": 4,
+      "enough": 6,
+      "reveal": 1,
+      "what": 14,
+      "hidden": 2,
+      "sand": 1,
+      "littered": 1,
+      "architecture": 1,
+      "lives": 3,
+      "shells": 1,
+      "bones": 1,
+      "delicate": 1,
+      "tracks": 1,
+      "birds": 2,
+      "collected": 3,
+      "smoothest": 1,
+      "carried": 7,
+      "home": 2,
+      "coat": 1,
+      "pockets": 1,
+      "heavy": 2,
+      "other": 10,
+      "people's": 5,
+      "cast": 1,
+      "treasure": 2,
+      "sea": 9,
+      "greenhouse": 2,
+      "apart": 1,
+      "panels": 1,
+      "fogged": 1,
+      "even": 3,
+      "deep": 1,
+      "Inside": 3,
+      "tomatoes": 2,
+      "ran": 5,
+      "ahead": 3,
+      "calendar": 4,
+      "earth": 2,
+      "walk": 3,
+      "father": 2,
+      "built": 6,
+      "ago": 5,
+      "frame": 1,
+      "angle": 1,
+      "ambition": 3,
+      "coldest": 1,
+      "days": 5,
+      "only": 10,
+      "bright": 2,
+      "Plants": 1,
+      "care": 2,
+      "your": 2,
+      "plans": 1,
+      "fair": 1,
+      "rumor": 2,
+      "out": 14,
+      "be": 14,
+      "true": 3,
+      "Trucks": 1,
+      "rolled": 1,
+      "overnight": 2,
+      "field": 5,
+      "become": 2,
+      "noise": 2,
+      "possibility": 1,
+      "winning": 1,
+      "goldfish": 1,
+      "grown": 8,
+      "already": 3,
+      "mapping": 1,
+      "rides": 2,
+      "familiar": 6,
+      "spun": 1,
+      "sugar": 1,
+      "diesel": 1,
+      "grass": 3,
+      "trodden": 2,
+      "down": 2,
+      "thousand": 3,
+      "feet": 1,
+      "For": 2,
+      "nights": 4,
+      "stayed": 5,
+      "past": 5,
+      "bedtime": 1,
+      "unwilling": 1,
+      "admit": 1,
+      "finite": 1,
+      "boat": 3,
+      "shed": 5,
+      "repainted": 1,
+      "hull": 1,
+      "planned": 1,
+      "varnish": 1,
+      "cracked": 1,
+      "decisions": 1,
+      "planking": 1,
+      "taken": 2,
+      "left": 7,
+      "alone": 2,
+      "fish": 5,
+      "anymore": 1,
+      "an": 7,
+      "argument": 8,
+      "passing": 2,
+      "Sometimes": 2,
+      "just": 5,
+      "trailer": 1,
+      "door": 3,
+      "rather": 2,
+      "baker": 2,
+      "measure": 3,
+      "which": 11,
+      "thing": 5,
+      "judged": 1,
+      "People": 2,
+      "moved": 7,
+      "away": 6,
+      "letters": 2,
+      "person": 5,
+      "wronged": 1,
+      "leaving": 2,
+      "rose": 3,
+      "before": 12,
+      "better": 3,
+      "herself": 7,
+      "market": 2,
+      "queue": 1,
+      "curled": 1,
+      "round": 2,
+      "corner": 2,
+      "hungry": 1,
+      "oddly": 1,
+      "grateful": 1,
+      "attention": 2,
+      "shrug": 3,
+      "else": 1,
+      "merely": 2,
+      "truth": 1,
+      "night": 5,
+      "dawn": 1,
+      "erased": 1,
+      "quick": 1,
+      "edges": 2,
+      "rounding": 1,
+      "everything": 4,
+      "touched": 1,
+      "usual": 1,
+      "sounds": 1,
+      "muffled": 1,
+      "apologizing": 1,
+      "Children": 6,
+      "broke": 1,
+      "forts": 1,
+      "losing": 1,
+      "mittens": 1,
+      "testing": 2,
+      "depth": 2,
+      "drifts": 2,
+      "boots": 1,
+      "plow": 1,
+      "through": 13,
+      "pushing": 1,
+      "white": 1,
+      "evening": 3,
+      "reconstituted": 1,
+      "quieter": 1,
+      "under": 3,
+      "new": 3,
+      "garden": 6,
+      "behind": 5,
+      "larger": 2,
+      "carpet": 2,
+      "coaxed": 1,
+      "rebellion": 2,
+      "year": 8,
+      "leaned": 2,
+      "fence": 3,
+      "support": 1,
+      "herbs": 1,
+      "asserted": 1,
+      "fragrant": 1,
+      "ownership": 1,
+      "less": 5,
+      "statement": 1,
+      "refusal": 1,
+      "concrete": 1,
+      "final": 1,
+      "word": 1,
+      "neighbors": 3,
+      "admired": 1,
+      "hedge": 2,
+      "admitted": 4,
+      "failures": 1,
+      "patch": 1,
+      "green": 4,
+      "entirely": 4,
+      "railway": 1,
+      "stopped": 5,
+      "running": 3,
+      "decades": 1,
+      "track": 1,
+      "bed": 1,
+      "held": 15,
+      "line": 4,
+      "fields": 7,
+      "breath": 4,
+      "Walkers": 1,
+      "used": 3,
+      "between": 7,
+      "sleepers": 1,
+      "soft": 1,
+      "melancholy": 1,
+      "sentence": 2,
+      "continues": 1,
+      "stop": 3,
+      "walked": 4,
+      "most": 4,
+      "greeting": 1,
+      "cattle": 1,
+      "view": 1,
+      "route": 2,
+      "refused": 1,
+      "existing": 1,
+      "being": 7,
+      "useful": 1,
+      "slept": 3,
+      "willows": 1,
+      "sound": 6,
+      "pages": 1,
+      "carrying": 2,
+      "few": 5,
+      "lamps": 1,
+      "bakers": 1,
+      "somewhere": 2,
+      "dog": 1,
+      "acknowledged": 1,
+      "hour": 4,
+      "single": 7,
+      "courteous": 1,
+      "bark": 1,
+      "say": 3,
+      "dock": 1,
+      "coffee": 4,
+      "do": 7,
+      "talking": 1,
+      "funeral": 1,
+      "man": 5,
+      "himself": 3,
+      "smaller": 3,
+      "version": 4,
+      "life": 7,
+      "Afterwards": 1,
+      "gathered": 3,
+      "told": 9,
+      "service": 1,
+      "laughter": 1,
+      "cake": 3,
+      "kettle": 1,
+      "boil": 1,
+      "room": 4,
+      "people": 4,
+      "also": 1,
+      "given": 3,
+      "permanence": 1,
+      "flooded": 1,
+      "little": 5,
+      "politely": 1,
+      "week": 3,
+      "meadows": 1,
+      "temporary": 1,
+      "lake": 1,
+      "claimed": 5,
+      "private": 1,
+      "rafts": 1,
+      "planks": 3,
+      "optimism": 1,
+      "farmers": 1,
+      "seen": 3,
+      "coexist": 1,
+      "drained": 1,
+      "greener": 1,
+      "slightly": 2,
+      "finished": 3,
+      "model": 1,
+      "ship": 4,
+      "desk": 2,
+      "eleven": 1,
+      "project": 2,
+      "begun": 4,
+      "abandoned": 1,
+      "picked": 1,
+      "again": 5,
+      "times": 3,
+      "count": 2,
+      "last": 5,
+      "afternoon": 4,
+      "rigging": 1,
+      "steady": 2,
+      "looked": 6,
+      "uncertain": 1,
+      "imagined": 1,
+      "unmistakably": 1,
+      "mantelpiece": 1,
+      "obscenely": 1,
+      "town's": 11,
+      "real": 4,
+      "hall": 1,
+      "day's": 1,
+      "decided": 7,
+      "opinions": 3,
+      "ratified": 1,
+      "occupied": 1,
+      "returned": 3,
+      "refills": 1,
+      "routine": 1,
+      "occasional": 1,
+      "spectacular": 1,
+      "exception": 1,
+      "waitress": 1,
+      "longer": 7,
+      "order": 3,
+      "fully": 1,
+      "closed": 7,
+      "Nobody": 2,
+      "understood": 1,
+      "power": 1,
+      "They": 10,
+      "showing": 2,
+      "faithful": 3,
+      "read": 9,
+      "forest": 4,
+      "without": 7,
+      "path": 2,
+      "slowly": 2,
+      "stamps": 1,
+      "shafts": 1,
+      "arranged": 3,
+      "Deer": 1,
+      "appeared": 1,
+      "sightings": 1,
+      "verdicts": 1,
+      "moments": 1,
+      "presented": 1,
+      "went": 7,
+      "asked": 2,
+      "Coming": 1,
+      "half": 5,
+      "lighthouse": 2,
+      "keeper": 2,
+      "retired": 1,
+      "off": 2,
+      "watch": 4,
+      "But": 2,
+      "sometimes": 1,
+      "beam": 1,
+      "sweeping": 1,
+      "dark": 4,
+      "lived": 1,
+      "cottage": 2,
+      "foot": 1,
+      "tending": 2,
+      "lost": 4,
+      "salt": 1,
+      "miss": 1,
+      "watching": 4,
+      "Yet": 1,
+      "stormy": 1,
+      "stand": 2,
+      "seem": 1,
+      "reassuring": 1,
+      "return": 3,
+      "tools": 2,
+      "cleared": 3,
+      "oiled": 1,
+      "hung": 2,
+      "size": 1,
+      "use": 2,
+      "man's": 1,
+      "philosophy": 1,
+      "reduced": 1,
+      "pegs": 1,
+      "hooks": 1,
+      "son": 1,
+      "while": 2,
+      "among": 1,
+      "sure": 1,
+      "handed": 2,
+      "over": 6,
+      "money": 1,
+      "land": 2,
+      "both": 5,
+      "mattered": 4,
+      "making": 2,
+      "unruly": 1,
+      "submit": 1,
+      "unfolded": 1,
+      "Saturday": 1,
+      "promise": 3,
+      "Stalls": 1,
+      "crowded": 1,
+      "vegetables": 1,
+      "dusty": 1,
+      "haggling": 1,
+      "theatrical": 1,
+      "sides": 2,
+      "performing": 1,
+      "negotiation": 1,
+      "apple": 2,
+      "slices": 1,
+      "elderly": 1,
+      "price": 2,
+      "great": 5,
+      "sincerity": 1,
+      "early": 2,
+      "swept": 1,
+      "clean": 2,
+      "pleasant": 1,
+      "hallucination": 1,
+      "expecting": 1,
+      "cinema": 2,
+      "grocers": 1,
+      "hill": 4,
+      "streets": 2,
+      "you": 5,
+      "strange": 2,
+      "once": 5,
+      "careful": 3,
+      "get": 2,
+      "pond": 2,
+      "wood": 2,
+      "caught": 1,
+      "slantwise": 1,
+      "surface": 1,
+      "boys": 1,
+      "fished": 1,
+      "rule": 1,
+      "nature": 1,
+      "heron": 2,
+      "bank": 1,
+      "punctuation": 1,
+      "mark": 2,
+      "unremarked": 1,
+      "unremarkable": 1,
+      "knowing": 1,
+      "shop": 3,
+      "secondhand": 1,
+      "object": 1,
+      "passed": 5,
+      "ghost": 1,
+      "former": 1,
+      "owner": 1,
+      "lamp": 3,
+      "lit": 2,
+      "hundred": 3,
+      "grandfather's": 1,
+      "weight": 1,
+      "ask": 1,
+      "questions": 3,
+      "objects": 1,
+      "wear": 1,
+      "business": 3,
+      "intentions": 1,
+      "seller": 1,
+      "ferryman": 1,
+      "met": 1,
+      "worn": 3,
+      "scar": 1,
+      "From": 1,
+      "top": 2,
+      "valley": 2,
+      "hedges": 1,
+      "thin": 1,
+      "ribbon": 1,
+      "defended": 1,
+      "idea": 3,
+      "clear": 2,
+      "see": 1,
+      "silver": 1,
+      "map": 1,
+      "promised": 2,
+      "delivered": 2,
+      "know": 2,
+      "answered": 2,
+      "strong": 1,
+      "tea": 2,
+      "Rooms": 1,
+      "tight": 1,
+      "windows": 3,
+      "steamed": 1,
+      "postman": 1,
+      "bundled": 1,
+      "beyond": 1,
+      "recognition": 1,
+      "grim": 1,
+      "determination": 1,
+      "resolving": 1,
+      "unfinished": 1,
+      "firelight": 1,
+      "work": 6,
+      "sun": 1,
+      "season": 2,
+      "endurance": 2,
+      "abundance": 1,
+      "bees": 1,
+      "inherited": 1,
+      "along": 1,
+      "hives": 1,
+      "row": 1,
+      "bottom": 1,
+      "republic": 1,
+      "humming": 1,
+      "purpose": 1,
+      "language": 2,
+      "getting": 2,
+      "stung": 1,
+      "adjusting": 1,
+      "paid": 1,
+      "honey": 2,
+      "color": 2,
+      "bad": 2,
+      "reminded": 1,
+      "humbling": 1,
+      "creature": 1,
+      "pier": 1,
+      "steamers": 1,
+      "hand": 5,
+      "replaced": 1,
+      "many": 2,
+      "original": 3,
+      "remained": 1,
+      "memory": 3,
+      "odd": 1,
+      "couple": 1,
+      "sit": 2,
+      "rearrange": 1,
+      "revived": 1,
+      "loud": 2,
+      "gulls": 1,
+      "ice": 1,
+      "cream": 2,
+      "joy": 4,
+      "shrank": 1,
+      "doing": 7,
+      "waiting": 1,
+      "habit": 3,
+      "finishing": 1,
+      "sentences": 2,
+      "worse": 2,
+      "difficult": 1,
+      "lie": 1,
+      "perhaps": 2,
+      "why": 4,
+      "friends": 1,
+      "very": 1,
+      "ones": 9,
+      "themselves": 1,
+      "deceptions": 1,
+      "somehow": 3,
+      "dangerous": 1,
+      "gift": 2,
+      "seeing": 2,
+      "cost": 1,
+      "considered": 2,
+      "cheap": 1,
+      "boy": 1,
+      "woods": 2,
+      "until": 1,
+      "blackberries": 1,
+      "stream": 1,
+      "served": 1,
+      "fortress": 1,
+      "departing": 1,
+      "scratched": 1,
+      "knees": 1,
+      "mother": 1,
+      "worrying": 1,
+      "understanding": 1,
+      "trusted": 3,
+      "garage": 2,
+      "run": 4,
+      "family": 2,
+      "oil": 1,
+      "burned": 1,
+      "soaked": 1,
+      "walls": 2,
+      "ledger": 1,
+      "balanced": 1,
+      "Politicians": 1,
+      "pilgrims": 1,
+      "broken": 2,
+      "transient": 1,
+      "point": 2,
+      "stubborn": 4,
+      "continuity": 1,
+      "wrote": 1,
+      "script": 1,
+      "taught": 3,
+      "short": 2,
+      "heart": 4,
+      "Correspondents": 1,
+      "expect": 2,
+      "envelopes": 1,
+      "insistence": 1,
+      "sent": 1,
+      "tied": 2,
+      "bundles": 1,
+      "decade": 3,
+      "meet": 1,
+      "properly": 1,
+      "page": 1,
+      "headland": 2,
+      "miles": 1,
+      "ships": 1,
+      "rocks": 1,
+      "forty": 4,
+      "storm": 3,
+      "towns": 1,
+      "replace": 1,
+      "restored": 1,
+      "some": 3,
+      "are": 1,
+      "inventions": 1,
+      "obligations": 1,
+      "correct": 1,
+      "light's": 1,
+      "press": 2,
+      "October": 1,
+      "smelled": 2,
+      "crushed": 1,
+      "fruit": 1,
+      "taster": 1,
+      "cups": 1,
+      "wisely": 1,
+      "grandfathers": 1,
+      "remembering": 1,
+      "winters": 1,
+      "screw": 1,
+      "juice": 1,
+      "ritual": 3,
+      "machine": 1,
+      "honored": 1,
+      "lanterns": 1,
+      "come": 3,
+      "hurry": 1,
+      "schoolroom": 1,
+      "thirty": 2,
+      "eastern": 1,
+      "Generations": 1,
+      "cohort": 1,
+      "different": 2,
+      "future": 1,
+      "young": 2,
+      "turn": 1,
+      "classroom": 1,
+      "fuller": 1,
+      "clapped": 1,
+      "yard": 1,
+      "crying": 1,
+      "well": 3,
+      "pipes": 1,
+      "obsolete": 1,
+      "stone": 3,
+      "coping": 1,
+      "smooth": 2,
+      "capped": 1,
+      "women": 1,
+      "music": 2,
+      "bucket": 1,
+      "coming": 1,
+      "tradition": 3,
+      "wish": 2,
+      "drew": 1,
+      "approved": 1,
+      "tossed": 1,
+      "coins": 1,
+      "cap's": 1,
+      "gap": 1,
+      "fountain": 1,
+      "journey": 1,
+      "blamed": 2,
+      "nobody": 2,
+      "stretch": 2,
+      "shore": 1,
+      "picking": 1,
+      "give": 2,
+      "arrive": 1,
+      "escaping": 1,
+      "anything": 7,
+      "keeping": 6,
+      "appointment": 1,
+      "seventies": 1,
+      "velvet": 1,
+      "seats": 2,
+      "projector": 2,
+      "lying": 1,
+      "bought": 2,
+      "loved": 3,
+      "together": 2,
+      "re": 2,
+      "wallpaper": 1,
+      "missing": 2,
+      "marquee": 1,
+      "reopening": 1,
+      "film": 1,
+      "audience": 1,
+      "minded": 2,
+      "movie": 1,
+      "hedgerow": 1,
+      "two": 5,
+      "farms": 2,
+      "alive": 2,
+      "tangle": 1,
+      "hawthorn": 1,
+      "blackberry": 1,
+      "followed": 2,
+      "since": 2,
+      "rusted": 2,
+      "boundary": 1,
+      "Farmers": 1,
+      "trimmed": 1,
+      "strays": 1,
+      "living": 2,
+      "prouder": 1,
+      "harbor": 1,
+      "learn": 2,
+      "repetitions": 1,
+      "buoy": 1,
+      "mood": 1,
+      "wind": 3,
+      "shifted": 1,
+      "boats": 1,
+      "stay": 1,
+      "afloat": 1,
+      "sheet": 1,
+      "tin": 1,
+      "reflection": 1,
+      "Out": 1,
+      "spoking": 1,
+      "bakery": 1,
+      "barbershop": 1,
+      "poles": 1,
+      "respectively": 1,
+      "Between": 2,
+      "gamut": 1,
+      "village's": 1,
+      "dramas": 1,
+      "fresh": 1,
+      "equal": 1,
+      "barber": 1,
+      "everyone's": 3,
+      "hair": 1,
+      "secrets": 2,
+      "habits": 1,
+      "rest": 1,
+      "system": 1,
+      "fragile": 1,
+      "dependable": 2,
+      "worked": 2,
+      "coast": 3,
+      "faster": 2,
+      "forecast": 1,
+      "practiced": 1,
+      "scramble": 1,
+      "Boats": 1,
+      "boarded": 1,
+      "livestock": 1,
+      "resignation": 1,
+      "creatures": 1,
+      "At": 1,
+      "height": 1,
+      "rain": 1,
+      "sideways": 1,
+      "hind": 1,
+      "legs": 1,
+      "roared": 1,
+      "unbothered": 1,
+      "timing": 1,
+      "gusts": 1,
+      "memories": 3,
+      "pale": 1,
+      "truce": 1,
+      "carefully": 1,
+      "losses": 1,
+      "standing": 1,
+      "Sunday": 2,
+      "share": 1,
+      "birthday": 1,
+      "outlived": 2,
+      "occasion": 1,
+      "becoming": 1,
+      "pulse": 1,
+      "visits": 2,
+      "called": 2,
+      "surplus": 1,
+      "mentioned": 1,
+      "emptiness": 1,
+      "really": 2,
+      "solitude": 1,
+      "recipe": 1,
+      "keeper's": 1,
+      "drawbridge": 1,
+      "hourly": 1,
+      "rising": 1,
+      "road": 3,
+      "operated": 1,
+      "Ships": 1,
+      "according": 1,
+      "saluted": 1,
+      "fifty": 2,
+      "forgotten": 1,
+      "ways": 1,
+      "townspeople": 1,
+      "raising": 1,
+      "orchard's": 1,
+      "oldest": 1,
+      "struck": 1,
+      "lightning": 1,
+      "sort": 2,
+      "majesty": 1,
+      "trunk": 1,
+      "hollowed": 2,
+      "blackened": 1,
+      "places": 1,
+      "branches": 1,
+      "despite": 1,
+      "rot": 1,
+      "adults": 1,
+      "ridiculous": 1,
+      "defiant": 1,
+      "pointed": 1,
+      "wanted": 3,
+      "persistence": 1,
+      "seasons": 2,
+      "backwards": 1,
+      "trace": 1,
+      "jars": 1,
+      "preserves": 1,
+      "lined": 2,
+      "pantry": 1,
+      "darkened": 1,
+      "shelf": 1,
+      "woodpile": 1,
+      "breadth": 1,
+      "quilts": 1,
+      "convenience": 1,
+      "measurement": 1,
+      "aside": 1,
+      "woman": 1,
+      "stored": 1,
+      "school": 2,
+      "teacher": 3,
+      "ages": 1,
+      "teach": 1,
+      "helped": 1,
+      "younger": 2,
+      "embarrassed": 1,
+      "Lessons": 1,
+      "conducted": 1,
+      "backdrop": 1,
+      "stove": 1,
+      "Examinations": 1,
+      "rare": 1,
+      "optional": 1,
+      "examination": 1,
+      "silently": 1,
+      "Most": 1,
+      "clocks": 2,
+      "interest": 1,
+      "invite": 1,
+      "explanation": 1,
+      "disagreements": 1,
+      "ticking": 1,
+      "winding": 1,
+      "devotion": 1,
+      "control": 1,
+      "company": 1,
+      "moment": 1,
+      "unobserved": 1,
+      "ferry": 1,
+      "crossing": 3,
+      "existed": 1,
+      "stubbornness": 2,
+      "sentiment": 1,
+      "Cars": 1,
+      "crew": 1,
+      "parked": 1,
+      "feel": 1,
+      "voyage": 1,
+      "parenthesis": 1,
+      "Gulls": 1,
+      "crumbs": 1,
+      "engine": 1,
+      "thrummed": 1,
+      "note": 2,
+      "machinery": 1,
+      "empty": 2,
+      "comparison": 1,
+      "preferred": 2,
+      "date": 1,
+      "child": 2,
+      "born": 1,
+      "grove": 1,
+      "biography": 1,
+      "holding": 1,
+      "story": 3,
+      "touch": 2,
+      "dumb": 1,
+      "planting": 2,
+      "forgetting": 1,
+      "tower": 1,
+      "dominated": 1,
+      "cathedral": 1,
+      "dominates": 1,
+      "city": 1,
+      "rust": 1,
+      "blunt": 1,
+      "necessary": 1,
+      "shadow": 2,
+      "unhurried": 1,
+      "pace": 1,
+      "giant": 1,
+      "whitewashed": 1,
+      "painted": 3,
+      "initials": 1,
+      "ladder's": 1,
+      "reach": 1,
+      "steel": 1,
+      "belly": 1,
+      "cool": 1,
+      "Not": 1,
+      "beautiful": 1,
+      "seventy": 1,
+      "French": 1,
+      "practical": 1,
+      "surprised": 1,
+      "including": 1,
+      "tutor": 1,
+      "shared": 1,
+      "bewilderment": 1,
+      "Progress": 1,
+      "impossible": 1,
+      "verbs": 1,
+      "beginner": 1,
+      "unsteady": 1,
+      "willing": 1,
+      "feeling": 1,
+      "large": 1,
+      "honest": 2,
+      "mill": 3,
+      "geese": 1,
+      "wheel": 1,
+      "bound": 1,
+      "weeds": 1,
+      "move": 1,
+      "miller's": 1,
+      "postbox": 1,
+      "name": 4,
+      "visitors": 1,
+      "Perhaps": 1,
+      "grain": 2,
+      "scent": 1,
+      "carry": 1,
+      "notebook": 1,
+      "answers": 2,
+      "list": 1,
+      "grew": 1,
+      "troubling": 1,
+      "Where": 1,
+      "eels": 1,
+      "dream": 1,
+      "unanswered": 1,
+      "spark": 1,
+      "completed": 1,
+      "collection": 1,
+      "So": 1,
+      "added": 1,
+      "gladly": 1,
+      "mysteries": 1,
+      "ink": 1,
+      "policeman": 1,
+      "arrest": 1,
+      "regarded": 1,
+      "either": 1,
+      "indictment": 1,
+      "tribute": 1,
+      "bench": 3,
+      "outside": 1,
+      "shopkeepers": 1,
+      "hours": 2,
+      "dogs": 1,
+      "allowed": 1,
+      "lawless": 1,
+      "having": 1,
+      "orderly": 1,
+      "train": 1,
+      "lullaby": 1,
+      "beside": 1,
+      "sleep": 2,
+      "elsewhere": 2,
+      "heartbeat": 1,
+      "shivered": 1,
+      "dreams": 1,
+      "landmark": 1,
+      "going": 1,
+      "wound": 1,
+      "rescued": 1,
+      "armchair": 1,
+      "damp": 2,
+      "sagging": 1,
+      "porch": 2,
+      "rained": 1,
+      "got": 2,
+      "inside": 1,
+      "dried": 1,
+      "comfortable": 1,
+      "attributed": 1,
+      "travels": 2,
+      "Neighbors": 1,
+      "throne": 1,
+      "sunken": 1,
+      "Nothing": 1,
+      "maintained": 1,
+      "performed": 1,
+      "ceremony": 1,
+      "Each": 1,
+      "history": 1,
+      "contradicted": 1,
+      "others": 1,
+      "contradictions": 1,
+      "satisfaction": 1,
+      "consensus": 1,
+      "You": 1,
+      "arrival": 1,
+      "departure": 1,
+      "monument": 1,
+      "marking": 1,
+      "shape": 1,
+      "adding": 1,
+      "piece": 2,
+      "take": 2,
+      "question": 1,
+      "foghorn": 1,
+      "shiver": 1,
+      "reply": 1,
+      "alarm": 1,
+      "presence": 1,
+      "voice": 1,
+      "announcing": 1,
+      "here": 1,
+      "Fishermen": 1,
+      "steer": 1,
+      "invisible": 1,
+      "lacked": 1,
+      "easier": 1,
+      "potted": 1,
+      "plant": 2,
+      "twenty": 1,
+      "moving": 1,
+      "survived": 1,
+      "overwatering": 1,
+      "drought": 1,
+      "forgetfulness": 1,
+      "remarkable": 2,
+      "somewhat": 2,
+      "bedraggled": 1,
+      "leaning": 1,
+      "talked": 1,
+      "superstitiously": 1,
+      "speaks": 1,
+      "companion": 1,
+      "obviously": 1,
+      "answer": 2,
+      "fairgrounds": 1,
+      "stray": 1,
+      "rubbish": 1,
+      "ghosts": 1,
+      "wander": 1,
+      "finding": 2,
+      "litter": 1,
+      "year's": 1,
+      "Someone": 1,
+      "glove": 1,
+      "propped": 1,
+      "umbrella": 1,
+      "saw": 1,
+      "noises": 1,
+      "season's": 2,
+      "next": 2,
+      "September": 1,
+      "trucks": 1,
+      "rumble": 1,
+      "rhythm": 1,
+      "productivity": 1,
+      "conversation": 2,
+      "materials": 1,
+      "Wood": 1,
+      "metal": 1,
+      "rewarded": 1,
+      "hang": 1,
+      "whatever": 2,
+      "regard": 1,
+      "mild": 1,
+      "surprise": 1,
+      "inexplicable": 1,
+      "untroubled": 1,
+      "logic": 1,
+      "ringing": 1,
+      "bell": 2,
+      "No": 2,
+      "must": 1,
+      "hear": 1,
+      "measurable": 1,
+      "change": 1,
+      "needed": 1,
+      "telling": 1,
+      "saying": 1,
+      "this": 1,
+      "noting": 1,
+      "projection": 1,
+      "screen": 1,
+      "slides": 1,
+      "family's": 1,
+      "none": 1,
+      "estate": 1,
+      "sale": 1,
+      "else's": 1,
+      "holidays": 1,
+      "intensity": 1,
+      "summers": 1,
+      "play": 1,
+      "outgrown": 1,
+      "photographs": 1,
+      "genius": 1,
+      "borrowing": 1,
+      "nostalgia": 1,
+      "matter": 1,
+      "blacksmith": 1,
+      "forge": 1,
+      "anvil": 2,
+      "dared": 1,
+      "dents": 1,
+      "blows": 1,
+      "horse": 1,
+      "shod": 1,
+      "vouch": 1,
+      "secret": 1,
+      "failed": 1,
+      "attempts": 1,
+      "scripture": 1,
+      "signs": 1,
+      "current": 1,
+      "snags": 1,
+      "hid": 1,
+      "upstream": 1,
+      "converse": 1,
+      "giving": 1,
+      "acknowledge": 1,
+      "religion": 1,
+      "regular": 1,
+      "forced": 1,
+      "bulbs": 1,
+      "disregardful": 1,
+      "frost": 1,
+      "hope": 1,
+      "sprouting": 1,
+      "shortest": 1,
+      "minute": 2,
+      "plants": 1,
+      "steadily": 1,
+      "lesson": 1,
+      "rarely": 1,
+      "families": 1,
+      "connection": 1,
+      "proprietor": 1,
+      "fond": 1,
+      "aisles": 1,
+      "narrow": 1,
+      "shelves": 1,
+      "lot": 1,
+      "civic": 1,
+      "institution": 1,
+      "transacted": 1,
+      "interval": 1,
+      "buying": 1,
+      "till": 1,
+      "rang": 1,
+      "constellations": 1,
+      "ceiling": 2,
+      "accuracy": 1,
+      "stars": 1,
+      "beautifully": 1,
+      "dislocations": 1,
+      "think": 1,
+      "actual": 1,
+      "poor": 1,
+      "copy": 1,
+      "inverted": 1,
+      "snowplow": 1,
+      "relied": 1,
+      "upon": 1,
+      "cheered": 1,
+      "worst": 1,
+      "driver": 1,
+      "shapes": 1,
+      "bridges": 1,
+      "groan": 1,
+      "job": 1,
+      "silent": 1,
+      "gratitude": 1,
+      "granted": 1,
+      "snow": 1,
+      "thanked": 1,
+      "likely": 1,
+      "thanks": 1,
+      "art": 1,
+      "talent": 1,
+      "believed": 1,
+      "retirement": 1,
+      "prove": 1,
+      "enrolled": 1,
+      "classes": 1,
+      "recently": 1,
+      "released": 1,
+      "Her": 2,
+      "paintings": 1,
+      "terrible": 2,
+      "neither": 1,
+      "grandchildren": 1,
+      "pictures": 1,
+      "reverence": 1,
+      "usually": 1,
+      "reserved": 1,
+      "masterpieces": 1,
+      "discovered": 2,
+      "fail": 1,
+      "valuable": 1,
+      "rarer": 1,
+      "pools": 3,
+      "base": 1,
+      "cliff": 1,
+      "children's": 1,
+      "laboratory": 1,
+      "setting": 1,
+      "theories": 1,
+      "Starfish": 1,
+      "rock": 1,
+      "statements": 1,
+      "anemone": 1,
+      "waved": 1,
+      "tentacles": 1,
+      "observations": 1,
+      "grander": 1,
+      "conclusions": 1,
+      "Their": 1,
+      "parents": 1,
+      "dinner": 1,
+      "waited": 1
+    },
+    "[\"kitchen\"]": {
+      " ": 1
+    },
+    "[\"had\"]": {
+      " ": 172
+    },
+    "[\"been\"]": {
+      " ": 19,
+      ",": 3
+    },
+    "[\"cold\"]": {
+      " ": 4
+    },
+    "[\"all\"]": {
+      " ": 15,
+      ".": 2,
+      ",": 1
+    },
+    "[\"morning\"]": {
+      ",": 1,
+      " ": 2
+    },
+    "[\",\"]": {
+      " ": 445
+    },
+    "[\"and\"]": {
+      " ": 301
+    },
+    "[\"the\"]": {
+      " ": 592
+    },
+    "[\"warmth\"]": {
+      " ": 3
+    },
+    "[\"of\"]": {
+      " ": 176,
+      ".": 1
+    },
+    "[\"oven\"]": {
+      " ": 2
+    },
+    "[\"felt\"]": {
+      " ": 2,
+      ",": 2
+    },
+    "[\"like\"]": {
+      " ": 15
+    },
+    "[\"a\"]": {
+      " ": 233
+    },
+    "[\"decision\"]": {
+      " ": 2
+    },
+    "[\"someone\"]": {
+      " ": 7
+    },
+    "[\"finally\"]": {
+      " ": 4
+    },
+    "[\"made\"]": {
+      ".": 1,
+      " ": 10
+    },
+    "[\".\"]": {
+      " ": 324
+    },
+    "[\"She\"]": {
+      " ": 41
+    },
+    "[\"measured\"]": {
+      " ": 2
+    },
+    "[\"flour\"]": {
+      " ": 1
+    },
+    "[\"twice\"]": {
+      " ": 3,
+      ".": 1
+    },
+    "[\"still\"]": {
+      " ": 21,
+      ",": 2
+    },
+    "[\"could\"]": {
+      " ": 20
+    },
+    "[\"not\"]": {
+      " ": 46,
+      ".": 4
+    },
+    "[\"quite\"]": {
+      " ": 8
+    },
+    "[\"believe\"]": {
+      " ": 2
+    },
+    "[\"amount\"]": {
+      ".": 1
+    },
+    "[\"Outside\"]": {
+      ",": 1
+    },
+    "[\"first\"]": {
+      " ": 5,
+      ".": 1
+    },
+    "[\"leaves\"]": {
+      " ": 1
+    },
+    "[\"autumn\"]": {
+      " ": 3,
+      ";": 1,
+      ",": 1
+    },
+    "[\"turned\"]": {
+      " ": 6,
+      ",": 1
+    },
+    "[\"against\"]": {
+      " ": 12
+    },
+    "[\"glass\"]": {
+      ",": 1,
+      " ": 1,
+      ".": 1
+    },
+    "[\"small\"]": {
+      " ": 23
+    },
+    "[\"deliberate\"]": {
+      ".": 1,
+      " ": 2
+    },
+    "[\"There\"]": {
+      " ": 10
+    },
+    "[\"was\"]": {
+      " ": 137,
+      ".": 2,
+      ",": 7
+    },
+    "[\"particular\"]": {
+      " ": 9,
+      ".": 2
+    },
+    "[\"comfort\"]": {
+      " ": 2
+    },
+    "[\"in\"]": {
+      " ": 93
+    },
+    "[\"bread\"]": {
+      ",": 1,
+      " ": 2,
+      ".": 1
+    },
+    "[\"she\"]": {
+      " ": 52
+    },
+    "[\"thought\"]": {
+      ",": 3,
+      " ": 5
+    },
+    "[\"how\"]": {
+      " ": 1
+    },
+    "[\"it\"]": {
+      " ": 131,
+      ".": 17,
+      ",": 9
+    },
+    "[\"required\"]": {
+      " ": 1
+    },
+    "[\"patience\"]": {
+      " ": 4,
+      ",": 2,
+      ".": 1
+    },
+    "[\"gave\"]": {
+      " ": 6
+    },
+    "[\"back\"]": {
+      " ": 12,
+      ",": 3
+    },
+    "[\"something\"]": {
+      " ": 4,
+      ".": 1
+    },
+    "[\"solid\"]": {
+      ".": 1
+    },
+    "[\"By\"]": {
+      " ": 5
+    },
+    "[\"time\"]": {
+      " ": 6,
+      ";": 1,
+      ".": 1
+    },
+    "[\"bake\"]": {
+      " ": 1
+    },
+    "[\"done\"]": {
+      ",": 1,
+      " ": 2
+    },
+    "[\"whole\"]": {
+      " ": 20
+    },
+    "[\"house\"]": {
+      " ": 8,
+      ",": 4,
+      ".": 1
+    },
+    "[\"orientated\"]": {
+      " ": 1
+    },
+    "[\"itself\"]": {
+      " ": 3,
+      ",": 1,
+      ".": 3
+    },
+    "[\"around\"]": {
+      " ": 6
+    },
+    "[\"smell\"]": {
+      ".": 1,
+      " ": 8
+    },
+    "[\"Rain\"]": {
+      " ": 1
+    },
+    "[\"began\"]": {
+      " ": 2,
+      ",": 1,
+      ".": 1
+    },
+    "[\"as\"]": {
+      " ": 42
+    },
+    "[\"suggestion\"]": {
+      " ": 1
+    },
+    "[\"on\"]": {
+      " ": 40,
+      ".": 3
+    },
+    "[\"windowsill\"]": {
+      " ": 3
+    },
+    "[\"then\"]": {
+      " ": 4,
+      ",": 2
+    },
+    "[\"became\"]": {
+      " ": 1
+    },
+    "[\"demand\"]": {
+      ".": 1
+    },
+    "[\"He\"]": {
+      " ": 39
+    },
+    "[\"watched\"]": {
+      " ": 2,
+      ",": 1
+    },
+    "[\"gather\"]": {
+      " ": 1
+    },
+    "[\"dips\"]": {
+      " ": 1
+    },
+    "[\"cobbles\"]": {
+      ",": 1
+    },
+    "[\"each\"]": {
+      " ": 7
+    },
+    "[\"puddle\"]": {
+      " ": 1
+    },
+    "[\"opinion\"]": {
+      " ": 1
+    },
+    "[\"about\"]": {
+      " ": 17,
+      ".": 1
+    },
+    "[\"weather\"]": {
+      ".": 5,
+      " ": 7,
+      ",": 1
+    },
+    "[\"bus\"]": {
+      " ": 2
+    },
+    "[\"late\"]": {
+      ",": 2,
+      " ": 2
+    },
+    "[\"way\"]": {
+      " ": 19,
+      ",": 1
+    },
+    "[\"always\"]": {
+      " ": 8
+    },
+    "[\"when\"]": {
+      " ": 14
+    },
+    "[\"sky\"]": {
+      " ": 3,
+      ".": 2
+    },
+    "[\"make\"]": {
+      " ": 1
+    },
+    "[\"up\"]": {
+      " ": 21,
+      ",": 5,
+      ".": 3
+    },
+    "[\"its\"]": {
+      " ": 46
+    },
+    "[\"mind\"]": {
+      ".": 2,
+      " ": 2
+    },
+    "[\"learned\"]": {
+      " ": 18,
+      ",": 2,
+      ".": 1
+    },
+    "[\"to\"]": {
+      " ": 112,
+      ".": 3,
+      ",": 2
+    },
+    "[\"bring\"]": {
+      " ": 1
+    },
+    "[\"book\"]": {
+      " ": 1
+    },
+    "[\"those\"]": {
+      " ": 1
+    },
+    "[\"mornings\"]": {
+      ",": 3,
+      " ": 3
+    },
+    "[\"quiet\"]": {
+      " ": 7,
+      ",": 3
+    },
+    "[\"insurance\"]": {
+      " ": 1
+    },
+    "[\"world's\"]": {
+      " ": 2
+    },
+    "[\"indecision\"]": {
+      ".": 1
+    },
+    "[\"When\"]": {
+      " ": 6
+    },
+    "[\"came\"]": {
+      ",": 3,
+      " ": 20,
+      ".": 1
+    },
+    "[\"arrived\"]": {
+      " ": 4
+    },
+    "[\"full\"]": {
+      " ": 11
+    },
+    "[\"wet\"]": {
+      " ": 2
+    },
+    "[\"umbrellas\"]": {
+      " ": 1
+    },
+    "[\"cheerful\"]": {
+      " ": 1
+    },
+    "[\"apologies\"]": {
+      ".": 1
+    },
+    "[\"old\"]": {
+      " ": 12,
+      "-": 1
+    },
+    "[\"bridge\"]": {
+      " ": 7,
+      ",": 1
+    },
+    "[\"at\"]": {
+      " ": 41
+    },
+    "[\"edge\"]": {
+      " ": 4
+    },
+    "[\"town\"]": {
+      " ": 39,
+      ".": 1,
+      ",": 3
+    },
+    "[\"outlasted\"]": {
+      " ": 1
+    },
+    "[\"three\"]": {
+      " ": 4
+    },
+    "[\"generations\"]": {
+      " ": 1,
+      ",": 1
+    },
+    "[\"repairs\"]": {
+      " ": 1
+    },
+    "[\"one\"]": {
+      " ": 26,
+      ".": 2,
+      ",": 1
+    },
+    "[\"entire\"]": {
+      " ": 2
+    },
+    "[\"war\"]": {
+      ".": 1,
+      " ": 1
+    },
+    "[\"Its\"]": {
+      " ": 5
+    },
+    "[\"stones\"]": {
+      " ": 3
+    },
+    "[\"set\"]": {
+      " ": 5
+    },
+    "[\"by\"]": {
+      " ": 41,
+      ".": 1
+    },
+    "[\"men\"]": {
+      " ": 9
+    },
+    "[\"whose\"]": {
+      " ": 3
+    },
+    "[\"names\"]": {
+      " ": 4,
+      ".": 1
+    },
+    "[\"were\"]": {
+      " ": 35
+    },
+    "[\"carved\"]": {
+      " ": 1
+    },
+    "[\"nowhere\"]": {
+      " ": 1
+    },
+    "[\"remembered\"]": {
+      " ": 4
+    },
+    "[\"everyone\"]": {
+      " ": 3,
+      ",": 1
+    },
+    "[\"anyway\"]": {
+      ".": 1,
+      ",": 1
+    },
+    "[\"Underneath\"]": {
+      ",": 1
+    },
+    "[\"river\"]": {
+      " ": 5,
+      ",": 2,
+      ".": 3
+    },
+    "[\"kept\"]": {
+      " ": 30,
+      ".": 2,
+      ",": 1
+    },
+    "[\"own\"]": {
+      " ": 14,
+      ".": 3,
+      ",": 1
+    },
+    "[\"schedule\"]": {
+      ",": 2,
+      " ": 1
+    },
+    "[\"indifferent\"]": {
+      " ": 1
+    },
+    "[\"traffic\"]": {
+      " ": 2
+    },
+    "[\"above\"]": {
+      ".": 1,
+      " ": 1
+    },
+    "[\"On\"]": {
+      " ": 11
+    },
+    "[\"slow\"]": {
+      " ": 2,
+      ",": 2
+    },
+    "[\"evenings\"]": {
+      ",": 1,
+      " ": 4,
+      ".": 1
+    },
+    "[\"fishermen\"]": {
+      " ": 2
+    },
+    "[\"would\"]": {
+      " ": 17,
+      ",": 1
+    },
+    "[\"lean\"]": {
+      " ": 2
+    },
+    "[\"rail\"]": {
+      " ": 1
+    },
+    "[\"trade\"]": {
+      " ": 1,
+      ",": 1
+    },
+    "[\"same\"]": {
+      " ": 18,
+      ".": 1
+    },
+    "[\"stories\"]": {
+      " ": 2,
+      ",": 1
+    },
+    "[\"their\"]": {
+      " ": 33
+    },
+    "[\"fathers\"]": {
+      ".": 1
+    },
+    "[\"did\"]": {
+      " ": 19,
+      ".": 1
+    },
+    "[\"A\"]": {
+      " ": 8
+    },
+    "[\"good\"]": {
+      " ": 4
+    },
+    "[\"they\"]": {
+      " ": 27,
+      ",": 1
+    },
+    "[\"said\"]": {
+      ",": 3,
+      " ": 6
+    },
+    "[\"simply\"]": {
+      " ": 7
+    },
+    "[\"patient\"]": {
+      ".": 3,
+      " ": 5
+    },
+    "[\"found\"]": {
+      " ": 3,
+      ",": 1,
+      ".": 1
+    },
+    "[\"letter\"]": {
+      " ": 3
+    },
+    "[\"drawer\"]": {
+      " ": 1
+    },
+    "[\"opened\"]": {
+      " ": 3
+    },
+    "[\"years\"]": {
+      ",": 5,
+      " ": 13,
+      ".": 2
+    },
+    "[\"folded\"]": {
+      " ": 1
+    },
+    "[\"faint\"]": {
+      " ": 1
+    },
+    "[\"with\"]": {
+      " ": 59,
+      ".": 3
+    },
+    "[\"age\"]": {
+      ".": 1,
+      ",": 1
+    },
+    "[\"Reading\"]": {
+      " ": 1
+    },
+    "[\"brought\"]": {
+      " ": 2
+    },
+    "[\"summer\"]": {
+      " ": 8
+    },
+    "[\"almost\"]": {
+      " ": 1,
+      "-": 1
+    },
+    "[\"managed\"]": {
+      " ": 2
+    },
+    "[\"forget\"]": {
+      ",": 1
+    },
+    "[\"light\"]": {
+      " ": 16,
+      ".": 2
+    },
+    "[\"heartbreak\"]": {
+      ".": 1
+    },
+    "[\"handwriting\"]": {
+      " ": 1
+    },
+    "[\"changed\"]": {
+      ",": 1,
+      " ": 2
+    },
+    "[\"though\"]": {
+      " ": 8
+    },
+    "[\"sender\"]": {
+      " ": 1
+    },
+    "[\"gone\"]": {
+      " ": 4,
+      ".": 1
+    },
+    "[\"now\"]": {
+      ".": 1,
+      " ": 3,
+      ",": 2
+    },
+    "[\"sat\"]": {
+      " ": 9
+    },
+    "[\"long\"]": {
+      " ": 14,
+      ",": 1,
+      "-": 1
+    },
+    "[\"paper\"]": {
+      " ": 2
+    },
+    "[\"her\"]": {
+      " ": 21,
+      ".": 4,
+      ",": 2
+    },
+    "[\"hands\"]": {
+      ",": 2,
+      ".": 1,
+      " ": 3
+    },
+    "[\"deciding\"]": {
+      " ": 1
+    },
+    "[\"whether\"]": {
+      " ": 3
+    },
+    "[\"keep\"]": {
+      " ": 2
+    },
+    "[\"or\"]": {
+      " ": 5
+    },
+    "[\"let\"]": {
+      " ": 8
+    },
+    "[\"go\"]": {
+      ".": 2,
+      " ": 3
+    },
+    "[\"In\"]": {
+      " ": 14
+    },
+    "[\"end\"]": {
+      " ": 2
+    },
+    "[\"put\"]": {
+      " ": 2
+    },
+    "[\"exactly\"]": {
+      " ": 3,
+      ";": 1,
+      ",": 1,
+      ".": 1
+    },
+    "[\"where\"]": {
+      " ": 11,
+      ".": 1
+    },
+    "[\"village\"]": {
+      " ": 8
+    },
+    "[\"woke\"]": {
+      " ": 1
+    },
+    "[\"fog\"]": {
+      " ": 3
+    },
+    "[\"so\"]": {
+      " ": 10,
+      ".": 1
+    },
+    "[\"thick\"]": {
+      " ": 2
+    },
+    "[\"church\"]": {
+      " ": 2,
+      ",": 1
+    },
+    "[\"bells\"]": {
+      " ": 1
+    },
+    "[\"sounded\"]": {
+      " ": 2
+    },
+    "[\"if\"]": {
+      " ": 8
+    },
+    "[\"from\"]": {
+      " ": 18
+    },
+    "[\"another\"]": {
+      " ": 5
+    },
+    "[\"country\"]": {
+      ".": 1,
+      ",": 1
+    },
+    "[\"Gardens\"]": {
+      " ": 1
+    },
+    "[\"loomed\"]": {
+      " ": 1
+    },
+    "[\"vanished\"]": {
+      " ": 2
+    },
+    "[\"grey\"]": {
+      ",": 1,
+      " ": 4,
+      ".": 1
+    },
+    "[\"woodsmoke\"]": {
+      " ": 2
+    },
+    "[\"traveled\"]": {
+      " ": 1
+    },
+    "[\"further\"]": {
+      " ": 1
+    },
+    "[\"than\"]": {
+      " ": 23
+    },
+    "[\"any\"]": {
+      " ": 5
+    },
+    "[\"right\"]": {
+      " ": 4,
+      ".": 2
+    },
+    "[\"Old\"]": {
+      " ": 1
+    },
+    "[\"Mrs\"]": {
+      ".": 1
+    },
+    "[\"Albright\"]": {
+      " ": 1
+    },
+    "[\"meant\"]": {
+      " ": 2,
+      ",": 1
+    },
+    "[\"hard\"]": {
+      " ": 3
+    },
+    "[\"winter\"]": {
+      ",": 2,
+      ".": 1,
+      " ": 5
+    },
+    "[\"that\"]": {
+      " ": 65
+    },
+    "[\"every\"]": {
+      " ": 21
+    },
+    "[\"crossroads\"]": {
+      " ": 3
+    },
+    "[\"caf\"]": {
+      " ": 2,
+      ",": 1
+    },
+    "[\"argued\"]": {
+      " ": 5,
+      ",": 1
+    },
+    "[\"cheerfully\"]": {
+      " ": 1
+    },
+    "[\"settled\"]": {
+      " ": 2,
+      ".": 1
+    },
+    "[\"nothing\"]": {
+      ".": 1,
+      " ": 7
+    },
+    "[\"noon\"]": {
+      " ": 2,
+      ",": 1
+    },
+    "[\"lifted\"]": {
+      ",": 1
+    },
+    "[\"day\"]": {
+      " ": 4,
+      ",": 2,
+      ".": 1
+    },
+    "[\"apologized\"]": {
+      " ": 1
+    },
+    "[\"turning\"]": {
+      " ": 6
+    },
+    "[\"warm\"]": {
+      ".": 1,
+      " ": 2,
+      ",": 1
+    },
+    "[\"spent\"]": {
+      " ": 4
+    },
+    "[\"lifetime\"]": {
+      " ": 1
+    },
+    "[\"learning\"]": {
+      " ": 2
+    },
+    "[\"repair\"]": {
+      " ": 1
+    },
+    "[\"things\"]": {
+      ",": 3,
+      " ": 4,
+      ".": 1
+    },
+    "[\"skill\"]": {
+      " ": 1
+    },
+    "[\"thickened\"]": {
+      " ": 1
+    },
+    "[\"into\"]": {
+      " ": 11
+    },
+    "[\"kind\"]": {
+      " ": 10
+    },
+    "[\"second\"]": {
+      " ": 2
+    },
+    "[\"sight\"]": {
+      ".": 1
+    },
+    "[\"loose\"]": {
+      " ": 1
+    },
+    "[\"hinge\"]": {
+      ",": 1
+    },
+    "[\"weeping\"]": {
+      " ": 1
+    },
+    "[\"tap\"]": {
+      ",": 1
+    },
+    "[\"chair\"]": {
+      " ": 2
+    },
+    "[\"tilted\"]": {
+      " ": 1
+    },
+    "[\"no\"]": {
+      " ": 16
+    },
+    "[\"looking\"]": {
+      ",": 1,
+      " ": 4,
+      ".": 1
+    },
+    "[\"them\"]": {
+      " ": 24,
+      ".": 4,
+      ",": 3
+    },
+    "[\"spoke\"]": {
+      " ": 2
+    },
+    "[\"him\"]": {
+      " ": 17,
+      ".": 4,
+      ",": 1
+    },
+    "[\"voices\"]": {
+      ".": 1,
+      " ": 1
+    },
+    "[\"His\"]": {
+      " ": 4
+    },
+    "[\"shabbiest\"]": {
+      " ": 1
+    },
+    "[\"street\"]": {
+      ",": 1
+    },
+    "[\"because\"]": {
+      " ": 12
+    },
+    "[\"there\"]": {
+      " ": 10,
+      ".": 2,
+      ",": 1
+    },
+    "[\"neighbor\"]": {
+      " ": 1
+    },
+    "[\"more\"]": {
+      " ": 11
+    },
+    "[\"urgent\"]": {
+      " ": 1
+    },
+    "[\"he\"]": {
+      " ": 36
+    },
+    "[\"Everyone\"]": {
+      " ": 1
+    },
+    "[\"knew\"]": {
+      " ": 17,
+      ",": 1
+    },
+    "[\"find\"]": {
+      " ": 4
+    },
+    "[\"his\"]": {
+      " ": 26,
+      ".": 1
+    },
+    "[\"workshop\"]": {
+      " ": 2,
+      ",": 1
+    },
+    "[\"after\"]": {
+      " ": 2,
+      ".": 1
+    },
+    "[\"supper\"]": {
+      ",": 1
+    },
+    "[\"surrounded\"]": {
+      " ": 1
+    },
+    "[\"evidence\"]": {
+      " ": 3,
+      ".": 1
+    },
+    "[\"usefulness\"]": {
+      ".": 1,
+      ",": 1
+    },
+    "[\"library\"]": {
+      " ": 1,
+      ",": 1
+    },
+    "[\"window\"]": {
+      " ": 2,
+      ".": 1,
+      ",": 1
+    },
+    "[\"faced\"]": {
+      " ": 2
+    },
+    "[\"square\"]": {
+      ",": 1,
+      " ": 4
+    },
+    "[\"fell\"]": {
+      " ": 2
+    },
+    "[\"across\"]": {
+      " ": 4
+    },
+    "[\"reading\"]": {
+      " ": 1
+    },
+    "[\"tables\"]": {
+      " ": 1,
+      ",": 1
+    },
+    "[\"pieces\"]": {
+      ".": 1
+    },
+    "[\"It\"]": {
+      " ": 53
+    },
+    "[\"building\"]": {
+      " ": 5
+    },
+    "[\"accumulated\"]": {
+      " ": 1
+    },
+    "[\"silence\"]": {
+      " ": 6
+    },
+    "[\"houses\"]": {
+      " ": 3
+    },
+    "[\"accumulate\"]": {
+      " ": 1
+    },
+    "[\"dust\"]": {
+      ".": 1,
+      " ": 1
+    },
+    "[\"librarian\"]": {
+      " ": 1
+    },
+    "[\"regulars\"]": {
+      " ": 2
+    },
+    "[\"books\"]": {
+      " ": 1
+    },
+    "[\"chose\"]": {
+      " ": 1
+    },
+    "[\"never\"]": {
+      " ": 10
+    },
+    "[\"cat\"]": {
+      ",": 1,
+      " ": 2
+    },
+    "[\"course\"]": {
+      ",": 1
+    },
+    "[\"seemed\"]": {
+      " ": 8,
+      ",": 1
+    },
+    "[\"hold\"]": {
+      " ": 2
+    },
+    "[\"century\"]": {
+      ".": 1,
+      " ": 1
+    },
+    "[\"rainy\"]": {
+      " ": 1
+    },
+    "[\"afternoons\"]": {
+      " ": 3,
+      "?": 1
+    },
+    "[\"place\"]": {
+      " ": 8,
+      ".": 2,
+      ",": 2
+    },
+    "[\"listen\"]": {
+      ".": 1
+    },
+    "[\"They\"]": {
+      " ": 12
+    },
+    "[\"planted\"]": {
+      " ": 2
+    },
+    "[\"orchard\"]": {
+      " ": 2
+    },
+    "[\"spring\"]": {
+      " ": 5,
+      ".": 2
+    },
+    "[\"ended\"]": {
+      ",": 1,
+      " ": 1
+    },
+    "[\"mostly\"]": {
+      " ": 4,
+      ",": 1
+    },
+    "[\"have\"]": {
+      " ": 10
+    },
+    "[\"look\"]": {
+      " ": 3
+    },
+    "[\"forward\"]": {
+      " ": 1
+    },
+    "[\"Forty\"]": {
+      " ": 1
+    },
+    "[\"later\"]": {
+      " ": 2
+    },
+    "[\"trees\"]": {
+      " ": 3,
+      ",": 1
+    },
+    "[\"stood\"]": {
+      " ": 13
+    },
+    "[\"generous\"]": {
+      " ": 1,
+      ",": 1
+    },
+    "[\"rows\"]": {
+      ",": 1
+    },
+    "[\"older\"]": {
+      " ": 5
+    },
+    "[\"children\"]": {
+      " ": 14
+    },
+    "[\"who\"]": {
+      " ": 14
+    },
+    "[\"climbed\"]": {
+      " ": 2
+    },
+    "[\"apples\"]": {
+      " ": 2
+    },
+    "[\"worth\"]": {
+      " ": 4
+    },
+    "[\"much\"]": {
+      " ": 8,
+      ".": 1
+    },
+    "[\"anyone\"]": {
+      ",": 1,
+      " ": 6
+    },
+    "[\"deformed\"]": {
+      " ": 1
+    },
+    "[\"free\"]": {
+      ",": 1
+    },
+    "[\"but\"]": {
+      " ": 34
+    },
+    "[\"theirs\"]": {
+      ".": 1
+    },
+    "[\"Every\"]": {
+      " ": 3
+    },
+    "[\"fuss\"]": {
+      " ": 1
+    },
+    "[\"harvest\"]": {
+      ",": 1
+    },
+    "[\"pies\"]": {
+      " ": 1
+    },
+    "[\"cider\"]": {
+      " ": 2
+    },
+    "[\"arguments\"]": {
+      " ": 2
+    },
+    "[\"tree\"]": {
+      " ": 5,
+      ",": 1
+    },
+    "[\"best\"]": {
+      ".": 2,
+      ":": 1,
+      " ": 5
+    },
+    "[\"for\"]": {
+      " ": 37,
+      ",": 2,
+      ".": 1
+    },
+    "[\"part\"]": {
+      ",": 3
+    },
+    "[\"counsel\"]": {
+      ".": 1
+    },
+    "[\"station\"]": {
+      " ": 2,
+      ",": 1
+    },
+    "[\"clock\"]": {
+      " ": 2
+    },
+    "[\"fifteen\"]": {
+      " ": 1
+    },
+    "[\"minutes\"]": {
+      " ": 1
+    },
+    "[\"fast\"]": {
+      " ": 1
+    },
+    "[\"remember\"]": {
+      ",": 2,
+      " ": 1
+    },
+    "[\"fact\"]": {
+      " ": 2
+    },
+    "[\"quietly\"]": {
+      " ": 1
+    },
+    "[\"accepted\"]": {
+      ".": 1,
+      " ": 1
+    },
+    "[\"Travelers\"]": {
+      " ": 1
+    },
+    "[\"missed\"]": {
+      " ": 1
+    },
+    "[\"trains\"]": {
+      " ": 2
+    },
+    "[\"wrong\"]": {
+      " ": 3,
+      ".": 3,
+      ",": 2
+    },
+    "[\"side\"]": {
+      " ": 3,
+      ",": 1
+    },
+    "[\"certainty\"]": {
+      ".": 1
+    },
+    "[\"Still\"]": {
+      ",": 1
+    },
+    "[\"ever\"]": {
+      " ": 6,
+      ",": 1
+    },
+    "[\"fixed\"]": {
+      " ": 3
+    },
+    "[\"fixing\"]": {
+      " ": 1
+    },
+    "[\"undone\"]": {
+      " ": 1
+    },
+    "[\"trust\"]": {
+      ".": 1,
+      " ": 1
+    },
+    "[\"timetable\"]": {
+      " ": 1
+    },
+    "[\"wall\"]": {
+      " ": 5,
+      ".": 1
+    },
+    "[\"agreed\"]": {
+      " ": 2
+    },
+    "[\"world\"]": {
+      " ": 6
+    },
+    "[\"uncertainties\"]": {
+      ",": 1
+    },
+    "[\"liked\"]": {
+      " ": 5
+    },
+    "[\"least\"]": {
+      " ": 3,
+      ",": 1
+    },
+    "[\"reliably\"]": {
+      " ": 1
+    },
+    "[\"took\"]": {
+      " ": 3
+    },
+    "[\"walking\"]": {
+      " ": 3
+    },
+    "[\"beach\"]": {
+      " ": 1
+    },
+    "[\"low\"]": {
+      " ": 4,
+      ",": 1
+    },
+    "[\"tide\"]": {
+      ",": 2,
+      ".": 2,
+      " ": 2
+    },
+    "[\"water\"]": {
+      " ": 9,
+      ".": 3,
+      ",": 2
+    },
+    "[\"pulled\"]": {
+      " ": 1
+    },
+    "[\"far\"]": {
+      " ": 4
+    },
+    "[\"enough\"]": {
+      " ": 3,
+      ".": 2,
+      ",": 1
+    },
+    "[\"reveal\"]": {
+      " ": 1
+    },
+    "[\"what\"]": {
+      " ": 14
+    },
+    "[\"hidden\"]": {
+      ".": 2
+    },
+    "[\"sand\"]": {
+      " ": 1
+    },
+    "[\"littered\"]": {
+      " ": 1
+    },
+    "[\"architecture\"]": {
+      " ": 1
+    },
+    "[\"lives\"]": {
+      ",": 1,
+      " ": 2
+    },
+    "[\"shells\"]": {
+      " ": 1
+    },
+    "[\"bones\"]": {
+      " ": 1
+    },
+    "[\"delicate\"]": {
+      " ": 1
+    },
+    "[\"tracks\"]": {
+      " ": 1
+    },
+    "[\"birds\"]": {
+      ".": 2
+    },
+    "[\"collected\"]": {
+      " ": 3
+    },
+    "[\"smoothest\"]": {
+      " ": 1
+    },
+    "[\"carried\"]": {
+      " ": 7
+    },
+    "[\"home\"]": {
+      " ": 2
+    },
+    "[\"coat\"]": {
+      " ": 1
+    },
+    "[\"pockets\"]": {
+      ",": 1
+    },
+    "[\"heavy\"]": {
+      " ": 2
+    },
+    "[\"other\"]": {
+      " ": 10
+    },
+    "[\"people's\"]": {
+      " ": 5
+    },
+    "[\"cast\"]": {
+      "-": 1
+    },
+    "[\"-\"]": {
+      "offs": 1,
+      "ups": 2,
+      "expecting": 1,
+      "out": 1,
+      "fallen": 1,
+      "down": 1,
+      "wine": 1,
+      "sprung": 1,
+      "hung": 1,
+      "timers": 1,
+      "striped": 1,
+      "term": 1
+    },
+    "[\"offs\"]": {
+      ".": 1
+    },
+    "[\"treasure\"]": {
+      ",": 1,
+      " ": 1
+    },
+    "[\"sea\"]": {
+      " ": 6,
+      ",": 2,
+      ".": 1
+    },
+    "[\"greenhouse\"]": {
+      " ": 2
+    },
+    "[\"apart\"]": {
+      " ": 1
+    },
+    "[\"panels\"]": {
+      " ": 1
+    },
+    "[\"fogged\"]": {
+      " ": 1
+    },
+    "[\"even\"]": {
+      " ": 3
+    },
+    "[\"deep\"]": {
+      " ": 1
+    },
+    "[\"Inside\"]": {
+      ",": 3
+    },
+    "[\"tomatoes\"]": {
+      " ": 2
+    },
+    "[\"ran\"]": {
+      " ": 4,
+      ".": 1
+    },
+    "[\"ahead\"]": {
+      " ": 3
+    },
+    "[\"calendar\"]": {
+      " ": 4
+    },
+    "[\"earth\"]": {
+      " ": 2
+    },
+    "[\"walk\"]": {
+      " ": 3
+    },
+    "[\"father\"]": {
+      " ": 2
+    },
+    "[\"built\"]": {
+      " ": 5,
+      ".": 1
+    },
+    "[\"ago\"]": {
+      ",": 4,
+      " ": 1
+    },
+    "[\"frame\"]": {
+      " ": 1
+    },
+    "[\"angle\"]": {
+      " ": 1
+    },
+    "[\"ambition\"]": {
+      ".": 1,
+      ",": 1,
+      " ": 1
+    },
+    "[\"coldest\"]": {
+      " ": 1
+    },
+    "[\"days\"]": {
+      " ": 4,
+      ",": 1
+    },
+    "[\"only\"]": {
+      " ": 10
+    },
+    "[\"bright\"]": {
+      " ": 2
+    },
+    "[\"Plants\"]": {
+      ",": 1
+    },
+    "[\"care\"]": {
+      " ": 2
+    },
+    "[\"your\"]": {
+      " ": 2
+    },
+    "[\"plans\"]": {
+      ",": 1
+    },
+    "[\"fair\"]": {
+      " ": 1
+    },
+    "[\"rumor\"]": {
+      " ": 1,
+      ".": 1
+    },
+    "[\"out\"]": {
+      " ": 11,
+      ",": 4
+    },
+    "[\"be\"]": {
+      " ": 13,
+      ".": 1
+    },
+    "[\"true\"]": {
+      ".": 2,
+      " ": 1
+    },
+    "[\"Trucks\"]": {
+      " ": 1
+    },
+    "[\"rolled\"]": {
+      " ": 1
+    },
+    "[\"overnight\"]": {
+      " ": 2
+    },
+    "[\"field\"]": {
+      " ": 4,
+      ",": 1
+    },
+    "[\"become\"]": {
+      " ": 2
+    },
+    "[\"noise\"]": {
+      " ": 1,
+      ",": 1
+    },
+    "[\"possibility\"]": {
+      " ": 1
+    },
+    "[\"winning\"]": {
+      " ": 1
+    },
+    "[\"goldfish\"]": {
+      ".": 1
+    },
+    "[\"grown\"]": {
+      "-": 2,
+      " ": 5,
+      ".": 1
+    },
+    "[\"ups\"]": {
+      ",": 1,
+      ".": 1
+    },
+    "[\"already\"]": {
+      " ": 3
+    },
+    "[\"mapping\"]": {
+      " ": 1
+    },
+    "[\"rides\"]": {
+      " ": 1,
+      ".": 1
+    },
+    "[\"familiar\"]": {
+      " ": 6
+    },
+    "[\"spun\"]": {
+      " ": 1
+    },
+    "[\"sugar\"]": {
+      " ": 1
+    },
+    "[\"diesel\"]": {
+      " ": 1
+    },
+    "[\"grass\"]": {
+      " ": 3
+    },
+    "[\"trodden\"]": {
+      " ": 2
+    },
+    "[\"down\"]": {
+      " ": 2,
+      ",": 1
+    },
+    "[\"thousand\"]": {
+      " ": 3
+    },
+    "[\"feet\"]": {
+      ".": 1
+    },
+    "[\"For\"]": {
+      " ": 2
+    },
+    "[\"nights\"]": {
+      " ": 4
+    },
+    "[\"stayed\"]": {
+      " ": 3,
+      ",": 2
+    },
+    "[\"past\"]": {
+      " ": 4,
+      ",": 1
+    },
+    "[\"bedtime\"]": {
+      ",": 1
+    },
+    "[\"unwilling\"]": {
+      " ": 1
+    },
+    "[\"admit\"]": {
+      " ": 1
+    },
+    "[\"finite\"]": {
+      ".": 1
+    },
+    "[\"boat\"]": {
+      " ": 3
+    },
+    "[\"shed\"]": {
+      " ": 3,
+      ".": 1,
+      ",": 1
+    },
+    "[\"repainted\"]": {
+      " ": 1
+    },
+    "[\"hull\"]": {
+      " ": 1
+    },
+    "[\"planned\"]": {
+      " ": 1
+    },
+    "[\"varnish\"]": {
+      " ": 1
+    },
+    "[\"cracked\"]": {
+      " ": 1
+    },
+    "[\"decisions\"]": {
+      ",": 1
+    },
+    "[\"planking\"]": {
+      " ": 1
+    },
+    "[\"taken\"]": {
+      " ": 2
+    },
+    "[\"left\"]": {
+      " ": 5,
+      ".": 1,
+      ",": 1
+    },
+    "[\"alone\"]": {
+      ".": 1,
+      ",": 1
+    },
+    "[\"fish\"]": {
+      " ": 5
+    },
+    "[\"anymore\"]": {
+      ";": 1
+    },
+    "[\";\"]": {
+      " ": 5
+    },
+    "[\"an\"]": {
+      " ": 7
+    },
+    "[\"argument\"]": {
+      " ": 7,
+      ".": 1
+    },
+    "[\"passing\"]": {
+      " ": 2
+    },
+    "[\"Sometimes\"]": {
+      " ": 2
+    },
+    "[\"just\"]": {
+      " ": 5
+    },
+    "[\"trailer\"]": {
+      ",": 1
+    },
+    "[\"door\"]": {
+      " ": 3
+    },
+    "[\"rather\"]": {
+      " ": 2
+    },
+    "[\"baker\"]": {
+      ",": 1,
+      " ": 1
+    },
+    "[\"measure\"]": {
+      " ": 1,
+      ".": 1,
+      ",": 1
+    },
+    "[\"which\"]": {
+      " ": 10,
+      ",": 1
+    },
+    "[\"thing\"]": {
+      " ": 5
+    },
+    "[\"judged\"]": {
+      ".": 1
+    },
+    "[\"People\"]": {
+      " ": 2
+    },
+    "[\"moved\"]": {
+      " ": 7
+    },
+    "[\"away\"]": {
+      " ": 2,
+      ",": 3,
+      ".": 1
+    },
+    "[\"letters\"]": {
+      ",": 1,
+      " ": 1
+    },
+    "[\"person\"]": {
+      " ": 5
+    },
+    "[\"wronged\"]": {
+      " ": 1
+    },
+    "[\"leaving\"]": {
+      ".": 1,
+      ",": 1
+    },
+    "[\"rose\"]": {
+      " ": 3
+    },
+    "[\"before\"]": {
+      " ": 9,
+      ",": 1,
+      ".": 2
+    },
+    "[\"better\"]": {
+      " ": 3
+    },
+    "[\"herself\"]": {
+      ".": 3,
+      " ": 3,
+      ",": 1
+    },
+    "[\"market\"]": {
+      " ": 2
+    },
+    "[\"queue\"]": {
+      " ": 1
+    },
+    "[\"curled\"]": {
+      " ": 1
+    },
+    "[\"round\"]": {
+      " ": 2
+    },
+    "[\"corner\"]": {
+      ",": 1,
+      ".": 1
+    },
+    "[\"hungry\"]": {
+      " ": 1
+    },
+    "[\"oddly\"]": {
+      " ": 1
+    },
+    "[\"grateful\"]": {
+      ".": 1
+    },
+    "[\"attention\"]": {
+      " ": 1,
+      ".": 1
+    },
+    "[\"shrug\"]": {
+      ",": 2,
+      ".": 1
+    },
+    "[\"else\"]": {
+      " ": 1
+    },
+    "[\"merely\"]": {
+      " ": 2
+    },
+    "[\"truth\"]": {
+      ".": 1
+    },
+    "[\"Snow\"]": {
+      " ": 1
+    },
+    "[\"night\"]": {
+      " ": 3,
+      ".": 1,
+      ",": 1
+    },
+    "[\"dawn\"]": {
+      " ": 1
+    },
+    "[\"erased\"]": {
+      " ": 1
+    },
+    "[\"quick\"]": {
+      " ": 1
+    },
+    "[\"edges\"]": {
+      " ": 2
+    },
+    "[\"rounding\"]": {
+      " ": 1
+    },
+    "[\"everything\"]": {
+      " ": 4
+    },
+    "[\"touched\"]": {
+      ".": 1
+    },
+    "[\"usual\"]": {
+      " ": 1
+    },
+    "[\"sounds\"]": {
+      " ": 1
+    },
+    "[\"muffled\"]": {
+      " ": 1
+    },
+    "[\"apologizing\"]": {
+      ".": 1
+    },
+    "[\"Children\"]": {
+      " ": 6
+    },
+    "[\"broke\"]": {
+      " ": 1
+    },
+    "[\"forts\"]": {
+      " ": 1
+    },
+    "[\"losing\"]": {
+      " ": 1
+    },
+    "[\"mittens\"]": {
+      " ": 1
+    },
+    "[\"testing\"]": {
+      " ": 2
+    },
+    "[\"depth\"]": {
+      " ": 2
+    },
+    "[\"drifts\"]": {
+      " ": 2
+    },
+    "[\"boots\"]": {
+      ".": 1
+    },
+    "[\"plow\"]": {
+      " ": 1
+    },
+    "[\"through\"]": {
+      " ": 11,
+      ".": 1,
+      ",": 1
+    },
+    "[\"pushing\"]": {
+      " ": 1
+    },
+    "[\"white\"]": {
+      " ": 1
+    },
+    "[\"evening\"]": {
+      " ": 1,
+      ".": 1,
+      ",": 1
+    },
+    "[\"reconstituted\"]": {
+      " ": 1
+    },
+    "[\"quieter\"]": {
+      " ": 1
+    },
+    "[\"under\"]": {
+      " ": 3
+    },
+    "[\"new\"]": {
+      " ": 2,
+      ".": 1
+    },
+    "[\"garden\"]": {
+      " ": 5,
+      ".": 1
+    },
+    "[\"behind\"]": {
+      " ": 4,
+      ".": 1
+    },
+    "[\"larger\"]": {
+      " ": 2
+    },
+    "[\"carpet\"]": {
+      ",": 1,
+      ".": 1
+    },
+    "[\"coaxed\"]": {
+      " ": 1
+    },
+    "[\"rebellion\"]": {
+      " ": 1,
+      ",": 1
+    },
+    "[\"year\"]": {
+      ".": 1,
+      " ": 5,
+      ",": 2
+    },
+    "[\"leaned\"]": {
+      " ": 2
+    },
+    "[\"fence\"]": {
+      " ": 2,
+      ".": 1
+    },
+    "[\"support\"]": {
+      ",": 1
+    },
+    "[\"herbs\"]": {
+      " ": 1
+    },
+    "[\"asserted\"]": {
+      " ": 1
+    },
+    "[\"fragrant\"]": {
+      " ": 1
+    },
+    "[\"ownership\"]": {
+      " ": 1
+    },
+    "[\"less\"]": {
+      " ": 5
+    },
+    "[\"statement\"]": {
+      ",": 1
+    },
+    "[\"refusal\"]": {
+      " ": 1
+    },
+    "[\"concrete\"]": {
+      " ": 1
+    },
+    "[\"final\"]": {
+      " ": 1
+    },
+    "[\"word\"]": {
+      ".": 1
+    },
+    "[\"neighbors\"]": {
+      " ": 2,
+      ",": 1
+    },
+    "[\"admired\"]": {
+      " ": 1
+    },
+    "[\"hedge\"]": {
+      " ": 2
+    },
+    "[\"admitted\"]": {
+      " ": 1,
+      ",": 2,
+      ".": 1
+    },
+    "[\"failures\"]": {
+      " ": 1
+    },
+    "[\"patch\"]": {
+      " ": 1
+    },
+    "[\"green\"]": {
+      ",": 1,
+      " ": 3
+    },
+    "[\"entirely\"]": {
+      " ": 4
+    },
+    "[\"railway\"]": {
+      " ": 1
+    },
+    "[\"stopped\"]": {
+      " ": 4,
+      ",": 1
+    },
+    "[\"running\"]": {
+      " ": 1,
+      ".": 1,
+      ",": 1
+    },
+    "[\"decades\"]": {
+      " ": 1
+    },
+    "[\"track\"]": {
+      " ": 1
+    },
+    "[\"bed\"]": {
+      " ": 1
+    },
+    "[\"held\"]": {
+      " ": 14,
+      "-": 1
+    },
+    "[\"line\"]": {
+      " ": 2,
+      ",": 2
+    },
+    "[\"fields\"]": {
+      " ": 7
+    },
+    "[\"breath\"]": {
+      ".": 2,
+      ",": 1,
+      " ": 1
+    },
+    "[\"Walkers\"]": {
+      " ": 1
+    },
+    "[\"used\"]": {
+      " ": 3
+    },
+    "[\"between\"]": {
+      " ": 7
+    },
+    "[\"sleepers\"]": {
+      " ": 1
+    },
+    "[\"soft\"]": {
+      ",": 1
+    },
+    "[\"melancholy\"]": {
+      " ": 1
+    },
+    "[\"sentence\"]": {
+      " ": 2
+    },
+    "[\"continues\"]": {
+      " ": 1
+    },
+    "[\"stop\"]": {
+      ".": 2,
+      " ": 1
+    },
+    "[\"walked\"]": {
+      " ": 3,
+      ",": 1
+    },
+    "[\"most\"]": {
+      " ": 4
+    },
+    "[\"greeting\"]": {
+      " ": 1
+    },
+    "[\"cattle\"]": {
+      " ": 1
+    },
+    "[\"view\"]": {
+      ".": 1
+    },
+    "[\"route\"]": {
+      " ": 2
+    },
+    "[\"refused\"]": {
+      " ": 1
+    },
+    "[\"existing\"]": {
+      " ": 1
+    },
+    "[\"being\"]": {
+      " ": 6,
+      ",": 1
+    },
+    "[\"useful\"]": {
+      ".": 1
+    },
+    "[\"Midnight\"]": {
+      ",": 1
+    },
+    "[\"slept\"]": {
+      ",": 1,
+      " ": 2
+    },
+    "[\"willows\"]": {
+      " ": 1
+    },
+    "[\"sound\"]": {
+      " ": 6
+    },
+    "[\"pages\"]": {
+      ",": 1
+    },
+    "[\"carrying\"]": {
+      " ": 2
+    },
+    "[\"few\"]": {
+      " ": 5
+    },
+    "[\"lamps\"]": {
+      " ": 1
+    },
+    "[\"bakers\"]": {
+      " ": 1
+    },
+    "[\"somewhere\"]": {
+      " ": 2
+    },
+    "[\"dog\"]": {
+      " ": 1
+    },
+    "[\"acknowledged\"]": {
+      " ": 1
+    },
+    "[\"hour\"]": {
+      " ": 2,
+      ".": 2
+    },
+    "[\"single\"]": {
+      ",": 2,
+      " ": 5
+    },
+    "[\"courteous\"]": {
+      " ": 1
+    },
+    "[\"bark\"]": {
+      ".": 1
+    },
+    "[\"say\"]": {
+      " ": 2,
+      ".": 1
+    },
+    "[\"dock\"]": {
+      " ": 1
+    },
+    "[\"coffee\"]": {
+      " ": 4
+    },
+    "[\"do\"]": {
+      " ": 5,
+      ",": 2
+    },
+    "[\"talking\"]": {
+      ".": 1
+    },
+    "[\"funeral\"]": {
+      " ": 1
+    },
+    "[\"man\"]": {
+      " ": 5
+    },
+    "[\"himself\"]": {
+      " ": 1,
+      ".": 2
+    },
+    "[\"smaller\"]": {
+      " ": 2,
+      ".": 1
+    },
+    "[\"version\"]": {
+      " ": 4
+    },
+    "[\"life\"]": {
+      ".": 4,
+      " ": 2,
+      ",": 1
+    },
+    "[\"Afterwards\"]": {
+      ",": 1
+    },
+    "[\"gathered\"]": {
+      " ": 3
+    },
+    "[\"told\"]": {
+      " ": 9
+    },
+    "[\"service\"]": {
+      ".": 1
+    },
+    "[\"laughter\"]": {
+      ",": 1
+    },
+    "[\"cake\"]": {
+      ",": 2,
+      " ": 1
+    },
+    "[\"kettle\"]": {
+      " ": 1
+    },
+    "[\"boil\"]": {
+      ".": 1
+    },
+    "[\"room\"]": {
+      " ": 4
+    },
+    "[\"people\"]": {
+      " ": 4
+    },
+    "[\"also\"]": {
+      " ": 1
+    },
+    "[\"given\"]": {
+      " ": 3
+    },
+    "[\"permanence\"]": {
+      ".": 1
+    },
+    "[\"flooded\"]": {
+      ",": 1
+    },
+    "[\"little\"]": {
+      ",": 2,
+      " ": 3
+    },
+    "[\"politely\"]": {
+      ",": 1
+    },
+    "[\"week\"]": {
+      ",": 2,
+      " ": 1
+    },
+    "[\"meadows\"]": {
+      " ": 1
+    },
+    "[\"temporary\"]": {
+      " ": 1
+    },
+    "[\"lake\"]": {
+      ".": 1
+    },
+    "[\"claimed\"]": {
+      " ": 5
+    },
+    "[\"private\"]": {
+      " ": 1
+    },
+    "[\"rafts\"]": {
+      " ": 1
+    },
+    "[\"planks\"]": {
+      " ": 3
+    },
+    "[\"optimism\"]": {
+      ".": 1
+    },
+    "[\"farmers\"]": {
+      ",": 1
+    },
+    "[\"seen\"]": {
+      " ": 3
+    },
+    "[\"coexist\"]": {
+      " ": 1
+    },
+    "[\"drained\"]": {
+      " ": 1
+    },
+    "[\"greener\"]": {
+      " ": 1
+    },
+    "[\"slightly\"]": {
+      " ": 2
+    },
+    "[\"finished\"]": {
+      " ": 2,
+      ".": 1
+    },
+    "[\"model\"]": {
+      " ": 1
+    },
+    "[\"ship\"]": {
+      " ": 3,
+      ".": 1
+    },
+    "[\"desk\"]": {
+      " ": 2
+    },
+    "[\"eleven\"]": {
+      " ": 1
+    },
+    "[\"project\"]": {
+      " ": 1,
+      ",": 1
+    },
+    "[\"begun\"]": {
+      " ": 3,
+      ",": 1
+    },
+    "[\"abandoned\"]": {
+      " ": 1
+    },
+    "[\"picked\"]": {
+      " ": 1
+    },
+    "[\"again\"]": {
+      " ": 2,
+      ",": 3
+    },
+    "[\"times\"]": {
+      " ": 2,
+      ".": 1
+    },
+    "[\"count\"]": {
+      ".": 1,
+      " ": 1
+    },
+    "[\"last\"]": {
+      " ": 5
+    },
+    "[\"afternoon\"]": {
+      ",": 1,
+      " ": 3
+    },
+    "[\"rigging\"]": {
+      " ": 1
+    },
+    "[\"steady\"]": {
+      " ": 2
+    },
+    "[\"looked\"]": {
+      " ": 6
+    },
+    "[\"uncertain\"]": {
+      " ": 1
+    },
+    "[\"imagined\"]": {
+      ",": 1
+    },
+    "[\"unmistakably\"]": {
+      ",": 1
+    },
+    "[\"mantelpiece\"]": {
+      ",": 1
+    },
+    "[\"obscenely\"]": {
+      " ": 1
+    },
+    "[\"town's\"]": {
+      " ": 11
+    },
+    "[\"real\"]": {
+      " ": 4
+    },
+    "[\"hall\"]": {
+      ",": 1
+    },
+    "[\"day's\"]": {
+      " ": 1
+    },
+    "[\"decided\"]": {
+      " ": 6,
+      ",": 1
+    },
+    "[\"opinions\"]": {
+      " ": 2,
+      ".": 1
+    },
+    "[\"ratified\"]": {
+      ".": 1
+    },
+    "[\"occupied\"]": {
+      " ": 1
+    },
+    "[\"returned\"]": {
+      " ": 3
+    },
+    "[\"refills\"]": {
+      ".": 1
+    },
+    "[\"routine\"]": {
+      " ": 1
+    },
+    "[\"occasional\"]": {
+      " ": 1
+    },
+    "[\"spectacular\"]": {
+      " ": 1
+    },
+    "[\"exception\"]": {
+      ".": 1
+    },
+    "[\"waitress\"]": {
+      " ": 1
+    },
+    "[\"longer\"]": {
+      " ": 7
+    },
+    "[\"order\"]": {
+      " ": 2,
+      ",": 1
+    },
+    "[\"fully\"]": {
+      " ": 1
+    },
+    "[\"closed\"]": {
+      ".": 1,
+      " ": 5,
+      ",": 1
+    },
+    "[\"Nobody\"]": {
+      " ": 2
+    },
+    "[\"understood\"]": {
+      " ": 1
+    },
+    "[\"power\"]": {
+      ".": 1
+    },
+    "[\"showing\"]": {
+      " ": 2
+    },
+    "[\"faithful\"]": {
+      " ": 2,
+      ".": 1
+    },
+    "[\"read\"]": {
+      " ": 9
+    },
+    "[\"forest\"]": {
+      " ": 4
+    },
+    "[\"without\"]": {
+      " ": 7
+    },
+    "[\"path\"]": {
+      ",": 1,
+      " ": 1
+    },
+    "[\"slowly\"]": {
+      ",": 2
+    },
+    "[\"stamps\"]": {
+      ",": 1
+    },
+    "[\"shafts\"]": {
+      " ": 1
+    },
+    "[\"arranged\"]": {
+      ".": 1,
+      " ": 2
+    },
+    "[\"Deer\"]": {
+      ",": 1
+    },
+    "[\"appeared\"]": {
+      ",": 1
+    },
+    "[\"sightings\"]": {
+      " ": 1
+    },
+    "[\"verdicts\"]": {
+      ",": 1
+    },
+    "[\"moments\"]": {
+      " ": 1
+    },
+    "[\"presented\"]": {
+      " ": 1
+    },
+    "[\"went\"]": {
+      " ": 7
+    },
+    "[\"asked\"]": {
+      " ": 1,
+      ",": 1
+    },
+    "[\"Coming\"]": {
+      " ": 1
+    },
+    "[\"half\"]": {
+      "-": 2,
+      " ": 3
+    },
+    "[\"expecting\"]": {
+      " ": 2
+    },
+    "[\"lighthouse\"]": {
+      " ": 2
+    },
+    "[\"keeper\"]": {
+      " ": 2
+    },
+    "[\"retired\"]": {
+      ",": 1
+    },
+    "[\"off\"]": {
+      " ": 2
+    },
+    "[\"watch\"]": {
+      " ": 2,
+      ".": 1,
+      ",": 1
+    },
+    "[\"But\"]": {
+      " ": 2
+    },
+    "[\"sometimes\"]": {
+      " ": 1
+    },
+    "[\"beam\"]": {
+      " ": 1
+    },
+    "[\"sweeping\"]": {
+      " ": 1
+    },
+    "[\"dark\"]": {
+      " ": 1,
+      ".": 2,
+      ",": 1
+    },
+    "[\"lived\"]": {
+      " ": 1
+    },
+    "[\"cottage\"]": {
+      " ": 2
+    },
+    "[\"foot\"]": {
+      ",": 1
+    },
+    "[\"tending\"]": {
+      " ": 2
+    },
+    "[\"lost\"]": {
+      " ": 3,
+      ".": 1
+    },
+    "[\"salt\"]": {
+      ".": 1
+    },
+    "[\"miss\"]": {
+      " ": 1
+    },
+    "[\"watching\"]": {
+      ".": 1,
+      " ": 2,
+      ",": 1
+    },
+    "[\"Yet\"]": {
+      " ": 1
+    },
+    "[\"stormy\"]": {
+      " ": 1
+    },
+    "[\"stand\"]": {
+      " ": 2
+    },
+    "[\"seem\"]": {
+      " ": 1
+    },
+    "[\"reassuring\"]": {
+      " ": 1
+    },
+    "[\"return\"]": {
+      ".": 1,
+      " ": 2
+    },
+    "[\"tools\"]": {
+      " ": 1,
+      ".": 1
+    },
+    "[\"cleared\"]": {
+      " ": 2,
+      ",": 1
+    },
+    "[\"oiled\"]": {
+      " ": 1
+    },
+    "[\"hung\"]": {
+      " ": 2,
+      ",": 1
+    },
+    "[\"size\"]": {
+      " ": 1
+    },
+    "[\"use\"]": {
+      ",": 1,
+      " ": 1
+    },
+    "[\"man's\"]": {
+      " ": 1
+    },
+    "[\"philosophy\"]": {
+      " ": 1
+    },
+    "[\"reduced\"]": {
+      " ": 1
+    },
+    "[\"pegs\"]": {
+      " ": 1
+    },
+    "[\"hooks\"]": {
+      ".": 1
+    },
+    "[\"son\"]": {
+      " ": 1
+    },
+    "[\"while\"]": {
+      " ": 2
+    },
+    "[\"among\"]": {
+      " ": 1
+    },
+    "[\"sure\"]": {
+      " ": 1
+    },
+    "[\"handed\"]": {
+      " ": 2
+    },
+    "[\"over\"]": {
+      ".": 1,
+      " ": 5
+    },
+    "[\"money\"]": {
+      ",": 1
+    },
+    "[\"land\"]": {
+      ",": 1,
+      " ": 1
+    },
+    "[\"both\"]": {
+      " ": 5
+    },
+    "[\"mattered\"]": {
+      ".": 2,
+      " ": 2
+    },
+    "[\"making\"]": {
+      " ": 2
+    },
+    "[\"unruly\"]": {
+      " ": 1
+    },
+    "[\"submit\"]": {
+      " ": 1
+    },
+    "[\"unfolded\"]": {
+      " ": 1
+    },
+    "[\"Saturday\"]": {
+      " ": 1
+    },
+    "[\"promise\"]": {
+      " ": 1,
+      ",": 1,
+      ".": 1
+    },
+    "[\"Stalls\"]": {
+      " ": 1
+    },
+    "[\"crowded\"]": {
+      " ": 1
+    },
+    "[\"vegetables\"]": {
+      " ": 1
+    },
+    "[\"dusty\"]": {
+      " ": 1
+    },
+    "[\"haggling\"]": {
+      " ": 1
+    },
+    "[\"theatrical\"]": {
+      ",": 1
+    },
+    "[\"sides\"]": {
+      " ": 2
+    },
+    "[\"performing\"]": {
+      " ": 1
+    },
+    "[\"negotiation\"]": {
+      " ": 1
+    },
+    "[\"apple\"]": {
+      " ": 2
+    },
+    "[\"slices\"]": {
+      " ": 1
+    },
+    "[\"elderly\"]": {
+      " ": 1
+    },
+    "[\"price\"]": {
+      " ": 1,
+      ".": 1
+    },
+    "[\"great\"]": {
+      " ": 5
+    },
+    "[\"sincerity\"]": {
+      ".": 1
+    },
+    "[\"early\"]": {
+      " ": 2
+    },
+    "[\"swept\"]": {
+      " ": 1
+    },
+    "[\"clean\"]": {
+      " ": 2
+    },
+    "[\"pleasant\"]": {
+      " ": 1
+    },
+    "[\"hallucination\"]": {
+      ".": 1
+    },
+    "[\"cinema\"]": {
+      " ": 2
+    },
+    "[\"grocers\"]": {
+      " ": 1
+    },
+    "[\"hill\"]": {
+      " ": 2,
+      ",": 1,
+      ".": 1
+    },
+    "[\"streets\"]": {
+      " ": 1,
+      ",": 1
+    },
+    "[\"you\"]": {
+      " ": 5
+    },
+    "[\"strange\"]": {
+      " ": 2
+    },
+    "[\"once\"]": {
+      ".": 1,
+      " ": 4
+    },
+    "[\"careful\"]": {
+      " ": 3
+    },
+    "[\"get\"]": {
+      " ": 2
+    },
+    "[\"pond\"]": {
+      " ": 2
+    },
+    "[\"wood\"]": {
+      " ": 2
+    },
+    "[\"caught\"]": {
+      " ": 1
+    },
+    "[\"slantwise\"]": {
+      ",": 1
+    },
+    "[\"surface\"]": {
+      " ": 1
+    },
+    "[\"boys\"]": {
+      " ": 1
+    },
+    "[\"fished\"]": {
+      " ": 1
+    },
+    "[\"rule\"]": {
+      " ": 1
+    },
+    "[\"nature\"]": {
+      " ": 1
+    },
+    "[\"heron\"]": {
+      " ": 2
+    },
+    "[\"bank\"]": {
+      ",": 1
+    },
+    "[\"punctuation\"]": {
+      " ": 1
+    },
+    "[\"mark\"]": {
+      ".": 1,
+      " ": 1
+    },
+    "[\"unremarked\"]": {
+      " ": 1
+    },
+    "[\"unremarkable\"]": {
+      ",": 1
+    },
+    "[\"knowing\"]": {
+      " ": 1
+    },
+    "[\"shop\"]": {
+      " ": 3
+    },
+    "[\"secondhand\"]": {
+      " ": 1
+    },
+    "[\"object\"]": {
+      " ": 1
+    },
+    "[\"passed\"]": {
+      " ": 4,
+      ".": 1
+    },
+    "[\"ghost\"]": {
+      " ": 1
+    },
+    "[\"former\"]": {
+      " ": 1
+    },
+    "[\"owner\"]": {
+      ".": 1
+    },
+    "[\"lamp\"]": {
+      " ": 2,
+      ",": 1
+    },
+    "[\"lit\"]": {
+      " ": 2
+    },
+    "[\"hundred\"]": {
+      " ": 3
+    },
+    "[\"grandfather's\"]": {
+      " ": 1
+    },
+    "[\"weight\"]": {
+      ".": 1
+    },
+    "[\"ask\"]": {
+      " ": 1
+    },
+    "[\"questions\"]": {
+      ",": 1,
+      ".": 1,
+      " ": 1
+    },
+    "[\"objects\"]": {
+      " ": 1
+    },
+    "[\"wear\"]": {
+      ".": 1
+    },
+    "[\"business\"]": {
+      ",": 1,
+      ".": 1,
+      " ": 1
+    },
+    "[\"intentions\"]": {
+      ".": 1
+    },
+    "[\"seller\"]": {
+      " ": 1
+    },
+    "[\"ferryman\"]": {
+      ",": 1
+    },
+    "[\"met\"]": {
+      ".": 1
+    },
+    "[\"worn\"]": {
+      " ": 3
+    },
+    "[\"scar\"]": {
+      " ": 1
+    },
+    "[\"From\"]": {
+      " ": 1
+    },
+    "[\"top\"]": {
+      ",": 1,
+      " ": 1
+    },
+    "[\"valley\"]": {
+      " ": 1,
+      ".": 1
+    },
+    "[\"hedges\"]": {
+      " ": 1
+    },
+    "[\"thin\"]": {
+      " ": 1
+    },
+    "[\"ribbon\"]": {
+      " ": 1
+    },
+    "[\"defended\"]": {
+      " ": 1
+    },
+    "[\"idea\"]": {
+      " ": 3
+    },
+    "[\"clear\"]": {
+      " ": 1,
+      ".": 1
+    },
+    "[\"see\"]": {
+      " ": 1
+    },
+    "[\"silver\"]": {
+      " ": 1
+    },
+    "[\"map\"]": {
+      " ": 1
+    },
+    "[\"promised\"]": {
+      " ": 1,
+      ",": 1
+    },
+    "[\"delivered\"]": {
+      ".": 1,
+      " ": 1
+    },
+    "[\"know\"]": {
+      " ": 2
+    },
+    "[\"Winter\"]": {
+      " ": 1
+    },
+    "[\"answered\"]": {
+      " ": 1,
+      ",": 1
+    },
+    "[\"strong\"]": {
+      " ": 1
+    },
+    "[\"tea\"]": {
+      ".": 1,
+      " ": 1
+    },
+    "[\"Rooms\"]": {
+      " ": 1
+    },
+    "[\"tight\"]": {
+      " ": 1
+    },
+    "[\"windows\"]": {
+      " ": 3
+    },
+    "[\"steamed\"]": {
+      " ": 1
+    },
+    "[\"postman\"]": {
+      ",": 1
+    },
+    "[\"bundled\"]": {
+      " ": 1
+    },
+    "[\"beyond\"]": {
+      " ": 1
+    },
+    "[\"recognition\"]": {
+      ",": 1
+    },
+    "[\"grim\"]": {
+      " ": 1
+    },
+    "[\"determination\"]": {
+      " ": 1
+    },
+    "[\"resolving\"]": {
+      " ": 1
+    },
+    "[\"unfinished\"]": {
+      " ": 1
+    },
+    "[\"firelight\"]": {
+      " ": 1
+    },
+    "[\"work\"]": {
+      " ": 5,
+      ",": 1
+    },
+    "[\"sun\"]": {
+      " ": 1
+    },
+    "[\"season\"]": {
+      " ": 1,
+      ".": 1
+    },
+    "[\"endurance\"]": {
+      ",": 1,
+      " ": 1
+    },
+    "[\"abundance\"]": {
+      ".": 1
+    },
+    "[\"bees\"]": {
+      ",": 1
+    },
+    "[\"inherited\"]": {
+      " ": 1
+    },
+    "[\"along\"]": {
+      " ": 1
+    },
+    "[\"hives\"]": {
+      " ": 1
+    },
+    "[\"row\"]": {
+      " ": 1
+    },
+    "[\"bottom\"]": {
+      " ": 1
+    },
+    "[\"republic\"]": {
+      " ": 1
+    },
+    "[\"humming\"]": {
+      " ": 1
+    },
+    "[\"purpose\"]": {
+      ".": 1
+    },
+    "[\"language\"]": {
+      " ": 2
+    },
+    "[\"getting\"]": {
+      " ": 2
+    },
+    "[\"stung\"]": {
+      " ": 1
+    },
+    "[\"adjusting\"]": {
+      ".": 1
+    },
+    "[\"paid\"]": {
+      " ": 1
+    },
+    "[\"honey\"]": {
+      " ": 2
+    },
+    "[\"color\"]": {
+      " ": 2
+    },
+    "[\"bad\"]": {
+      " ": 2
+    },
+    "[\"reminded\"]": {
+      " ": 1
+    },
+    "[\"humbling\"]": {
+      ",": 1
+    },
+    "[\"creature\"]": {
+      " ": 1
+    },
+    "[\"pier\"]": {
+      " ": 1
+    },
+    "[\"steamers\"]": {
+      " ": 1
+    },
+    "[\"hand\"]": {
+      ".": 2,
+      ",": 3
+    },
+    "[\"replaced\"]": {
+      " ": 1
+    },
+    "[\"many\"]": {
+      " ": 2
+    },
+    "[\"original\"]": {
+      " ": 3
+    },
+    "[\"remained\"]": {
+      " ": 1
+    },
+    "[\"memory\"]": {
+      " ": 2,
+      ",": 1
+    },
+    "[\"odd\"]": {
+      " ": 1
+    },
+    "[\"couple\"]": {
+      " ": 1
+    },
+    "[\"sit\"]": {
+      " ": 2
+    },
+    "[\"rearrange\"]": {
+      " ": 1
+    },
+    "[\"revived\"]": {
+      ",": 1
+    },
+    "[\"loud\"]": {
+      " ": 2
+    },
+    "[\"gulls\"]": {
+      " ": 1
+    },
+    "[\"ice\"]": {
+      " ": 1
+    },
+    "[\"cream\"]": {
+      " ": 2
+    },
+    "[\"joy\"]": {
+      " ": 3,
+      ".": 1
+    },
+    "[\"shrank\"]": {
+      " ": 1
+    },
+    "[\"doing\"]": {
+      " ": 5,
+      ",": 1,
+      ".": 1
+    },
+    "[\":\"]": {
+      " ": 1
+    },
+    "[\"waiting\"]": {
+      ".": 1
+    },
+    "[\"habit\"]": {
+      " ": 3
+    },
+    "[\"finishing\"]": {
+      " ": 1
+    },
+    "[\"sentences\"]": {
+      ",": 1,
+      " ": 1
+    },
+    "[\"worse\"]": {
+      ",": 1,
+      ".": 1
+    },
+    "[\"difficult\"]": {
+      " ": 1
+    },
+    "[\"lie\"]": {
+      " ": 1
+    },
+    "[\"perhaps\"]": {
+      " ": 2
+    },
+    "[\"why\"]": {
+      " ": 4
+    },
+    "[\"friends\"]": {
+      " ": 1
+    },
+    "[\"very\"]": {
+      " ": 1
+    },
+    "[\"ones\"]": {
+      ".": 1,
+      " ": 7,
+      ",": 1
+    },
+    "[\"themselves\"]": {
+      ".": 1
+    },
+    "[\"deceptions\"]": {
+      ",": 1
+    },
+    "[\"somehow\"]": {
+      " ": 3
+    },
+    "[\"dangerous\"]": {
+      " ": 1
+    },
+    "[\"gift\"]": {
+      " ": 1,
+      ",": 1
+    },
+    "[\"seeing\"]": {
+      " ": 2
+    },
+    "[\"cost\"]": {
+      " ": 1
+    },
+    "[\"considered\"]": {
+      " ": 1,
+      ",": 1
+    },
+    "[\"cheap\"]": {
+      " ": 1
+    },
+    "[\"boy\"]": {
+      " ": 1
+    },
+    "[\"woods\"]": {
+      " ": 2
+    },
+    "[\"until\"]": {
+      " ": 1
+    },
+    "[\"blackberries\"]": {
+      " ": 1
+    },
+    "[\"stream\"]": {
+      " ": 1
+    },
+    "[\"fallen\"]": {
+      ",": 1
+    },
+    "[\"served\"]": {
+      " ": 1
+    },
+    "[\"fortress\"]": {
+      " ": 1
+    },
+    "[\"departing\"]": {
+      " ": 1
+    },
+    "[\"scratched\"]": {
+      " ": 1
+    },
+    "[\"knees\"]": {
+      " ": 1
+    },
+    "[\"mother\"]": {
+      " ": 1
+    },
+    "[\"worrying\"]": {
+      ",": 1
+    },
+    "[\"understanding\"]": {
+      " ": 1
+    },
+    "[\"trusted\"]": {
+      ",": 1,
+      " ": 2
+    },
+    "[\"garage\"]": {
+      " ": 2
+    },
+    "[\"run\"]": {
+      " ": 3,
+      ",": 1
+    },
+    "[\"family\"]": {
+      " ": 2
+    },
+    "[\"oil\"]": {
+      " ": 1
+    },
+    "[\"burned\"]": {
+      " ": 1
+    },
+    "[\"soaked\"]": {
+      " ": 1
+    },
+    "[\"walls\"]": {
+      ".": 1,
+      " ": 1
+    },
+    "[\"ledger\"]": {
+      " ": 1
+    },
+    "[\"balanced\"]": {
+      ".": 1
+    },
+    "[\"Politicians\"]": {
+      " ": 1
+    },
+    "[\"pilgrims\"]": {
+      " ": 1
+    },
+    "[\"broken\"]": {
+      "-": 1,
+      " ": 1
+    },
+    "[\"transient\"]": {
+      " ": 1
+    },
+    "[\"point\"]": {
+      " ": 1,
+      ".": 1
+    },
+    "[\"stubborn\"]": {
+      " ": 4
+    },
+    "[\"continuity\"]": {
+      ".": 1
+    },
+    "[\"wrote\"]": {
+      " ": 1
+    },
+    "[\"script\"]": {
+      " ": 1
+    },
+    "[\"taught\"]": {
+      " ": 2,
+      ".": 1
+    },
+    "[\"short\"]": {
+      " ": 1,
+      ",": 1
+    },
+    "[\"heart\"]": {
+      ".": 1,
+      " ": 3
+    },
+    "[\"Correspondents\"]": {
+      " ": 1
+    },
+    "[\"expect\"]": {
+      " ": 2
+    },
+    "[\"envelopes\"]": {
+      ",": 1
+    },
+    "[\"insistence\"]": {
+      ".": 1
+    },
+    "[\"sent\"]": {
+      " ": 1
+    },
+    "[\"tied\"]": {
+      " ": 2
+    },
+    "[\"bundles\"]": {
+      " ": 1
+    },
+    "[\"decade\"]": {
+      ".": 1,
+      " ": 1,
+      ",": 1
+    },
+    "[\"meet\"]": {
+      " ": 1
+    },
+    "[\"properly\"]": {
+      " ": 1
+    },
+    "[\"page\"]": {
+      ".": 1
+    },
+    "[\"headland\"]": {
+      " ": 1,
+      ",": 1
+    },
+    "[\"miles\"]": {
+      ",": 1
+    },
+    "[\"ships\"]": {
+      " ": 1
+    },
+    "[\"rocks\"]": {
+      " ": 1
+    },
+    "[\"forty\"]": {
+      " ": 4
+    },
+    "[\"storm\"]": {
+      " ": 2,
+      ",": 1
+    },
+    "[\"towns\"]": {
+      " ": 1
+    },
+    "[\"replace\"]": {
+      " ": 1
+    },
+    "[\"restored\"]": {
+      " ": 1
+    },
+    "[\"some\"]": {
+      " ": 3
+    },
+    "[\"are\"]": {
+      " ": 1
+    },
+    "[\"inventions\"]": {
+      " ": 1
+    },
+    "[\"obligations\"]": {
+      ".": 1
+    },
+    "[\"correct\"]": {
+      " ": 1
+    },
+    "[\"light's\"]": {
+      " ": 1
+    },
+    "[\"press\"]": {
+      " ": 2
+    },
+    "[\"October\"]": {
+      ",": 1
+    },
+    "[\"smelled\"]": {
+      " ": 2
+    },
+    "[\"wine\"]": {
+      " ": 1
+    },
+    "[\"crushed\"]": {
+      " ": 1
+    },
+    "[\"fruit\"]": {
+      ".": 1
+    },
+    "[\"taster\"]": {
+      " ": 1
+    },
+    "[\"cups\"]": {
+      " ": 1
+    },
+    "[\"wisely\"]": {
+      ",": 1
+    },
+    "[\"grandfathers\"]": {
+      " ": 1
+    },
+    "[\"remembering\"]": {
+      " ": 1
+    },
+    "[\"winters\"]": {
+      " ": 1
+    },
+    "[\"screw\"]": {
+      " ": 1
+    },
+    "[\"juice\"]": {
+      " ": 1
+    },
+    "[\"ritual\"]": {
+      " ": 3
+    },
+    "[\"machine\"]": {
+      ",": 1
+    },
+    "[\"honored\"]": {
+      " ": 1
+    },
+    "[\"lanterns\"]": {
+      " ": 1
+    },
+    "[\"come\"]": {
+      " ": 2,
+      ",": 1
+    },
+    "[\"hurry\"]": {
+      ".": 1
+    },
+    "[\"schoolroom\"]": {
+      " ": 1
+    },
+    "[\"thirty\"]": {
+      " ": 2
+    },
+    "[\"eastern\"]": {
+      " ": 1
+    },
+    "[\"Generations\"]": {
+      " ": 1
+    },
+    "[\"cohort\"]": {
+      " ": 1
+    },
+    "[\"different\"]": {
+      " ": 2
+    },
+    "[\"future\"]": {
+      ".": 1
+    },
+    "[\"young\"]": {
+      ",": 1,
+      " ": 1
+    },
+    "[\"turn\"]": {
+      ",": 1
+    },
+    "[\"classroom\"]": {
+      " ": 1
+    },
+    "[\"fuller\"]": {
+      " ": 1
+    },
+    "[\"clapped\"]": {
+      " ": 1
+    },
+    "[\"yard\"]": {
+      ",": 1
+    },
+    "[\"crying\"]": {
+      ".": 1
+    },
+    "[\"well\"]": {
+      " ": 2,
+      ",": 1
+    },
+    "[\"pipes\"]": {
+      " ": 1
+    },
+    "[\"obsolete\"]": {
+      ",": 1
+    },
+    "[\"stone\"]": {
+      " ": 3
+    },
+    "[\"coping\"]": {
+      " ": 1
+    },
+    "[\"smooth\"]": {
+      " ": 2
+    },
+    "[\"capped\"]": {
+      " ": 1
+    },
+    "[\"women\"]": {
+      " ": 1
+    },
+    "[\"music\"]": {
+      " ": 2
+    },
+    "[\"bucket\"]": {
+      " ": 1
+    },
+    "[\"coming\"]": {
+      " ": 1
+    },
+    "[\"tradition\"]": {
+      " ": 2,
+      ",": 1
+    },
+    "[\"wish\"]": {
+      " ": 1,
+      ".": 1
+    },
+    "[\"drew\"]": {
+      ",": 1
+    },
+    "[\"approved\"]": {
+      " ": 1
+    },
+    "[\"tossed\"]": {
+      " ": 1
+    },
+    "[\"coins\"]": {
+      " ": 1
+    },
+    "[\"cap's\"]": {
+      " ": 1
+    },
+    "[\"gap\"]": {
+      " ": 1
+    },
+    "[\"fountain\"]": {
+      ".": 1
+    },
+    "[\"journey\"]": {
+      " ": 1
+    },
+    "[\"blamed\"]": {
+      " ": 2
+    },
+    "[\"nobody\"]": {
+      " ": 2
+    },
+    "[\"stretch\"]": {
+      " ": 2
+    },
+    "[\"shore\"]": {
+      ",": 1
+    },
+    "[\"picking\"]": {
+      " ": 1
+    },
+    "[\"give\"]": {
+      " ": 1,
+      ".": 1
+    },
+    "[\"arrive\"]": {
+      " ": 1
+    },
+    "[\"escaping\"]": {
+      " ": 1
+    },
+    "[\"anything\"]": {
+      ",": 1,
+      ".": 2,
+      " ": 4
+    },
+    "[\"keeping\"]": {
+      " ": 5,
+      ",": 1
+    },
+    "[\"appointment\"]": {
+      ".": 1
+    },
+    "[\"seventies\"]": {
+      ",": 1
+    },
+    "[\"velvet\"]": {
+      " ": 1
+    },
+    "[\"seats\"]": {
+      " ": 2
+    },
+    "[\"projector\"]": {
+      " ": 2
+    },
+    "[\"lying\"]": {
+      " ": 1
+    },
+    "[\"bought\"]": {
+      " ": 2
+    },
+    "[\"loved\"]": {
+      " ": 3
+    },
+    "[\"together\"]": {
+      ".": 1,
+      " ": 1
+    },
+    "[\"re\"]": {
+      "-": 2
+    },
+    "[\"sprung\"]": {
+      " ": 1
+    },
+    "[\"wallpaper\"]": {
+      " ": 1
+    },
+    "[\"missing\"]": {
+      " ": 2
+    },
+    "[\"marquee\"]": {
+      " ": 1
+    },
+    "[\"reopening\"]": {
+      " ": 1
+    },
+    "[\"film\"]": {
+      " ": 1
+    },
+    "[\"audience\"]": {
+      ".": 1
+    },
+    "[\"minded\"]": {
+      ".": 1,
+      " ": 1
+    },
+    "[\"movie\"]": {
+      ".": 1
+    },
+    "[\"hedgerow\"]": {
+      " ": 1
+    },
+    "[\"two\"]": {
+      " ": 5
+    },
+    "[\"farms\"]": {
+      " ": 2
+    },
+    "[\"alive\"]": {
+      ".": 2
+    },
+    "[\"tangle\"]": {
+      " ": 1
+    },
+    "[\"hawthorn\"]": {
+      " ": 1
+    },
+    "[\"blackberry\"]": {
+      " ": 1
+    },
+    "[\"followed\"]": {
+      " ": 2
+    },
+    "[\"since\"]": {
+      " ": 2
+    },
+    "[\"rusted\"]": {
+      " ": 2
+    },
+    "[\"boundary\"]": {
+      " ": 1
+    },
+    "[\"Farmers\"]": {
+      " ": 1
+    },
+    "[\"trimmed\"]": {
+      " ": 1
+    },
+    "[\"strays\"]": {
+      ".": 1
+    },
+    "[\"living\"]": {
+      " ": 1,
+      ",": 1
+    },
+    "[\"prouder\"]": {
+      " ": 1
+    },
+    "[\"harbor\"]": {
+      " ": 1
+    },
+    "[\"learn\"]": {
+      " ": 2
+    },
+    "[\"repetitions\"]": {
+      ".": 1
+    },
+    "[\"buoy\"]": {
+      " ": 1
+    },
+    "[\"mood\"]": {
+      " ": 1
+    },
+    "[\"wind\"]": {
+      " ": 3
+    },
+    "[\"shifted\"]": {
+      " ": 1
+    },
+    "[\"boats\"]": {
+      " ": 1
+    },
+    "[\"stay\"]": {
+      " ": 1
+    },
+    "[\"afloat\"]": {
+      ".": 1
+    },
+    "[\"sheet\"]": {
+      " ": 1
+    },
+    "[\"tin\"]": {
+      ",": 1
+    },
+    "[\"reflection\"]": {
+      ".": 1
+    },
+    "[\"Out\"]": {
+      " ": 1
+    },
+    "[\"spoking\"]": {
+      ",": 1
+    },
+    "[\"bakery\"]": {
+      " ": 1
+    },
+    "[\"barbershop\"]": {
+      " ": 1
+    },
+    "[\"poles\"]": {
+      " ": 1
+    },
+    "[\"respectively\"]": {
+      ".": 1
+    },
+    "[\"Between\"]": {
+      " ": 2
+    },
+    "[\"gamut\"]": {
+      " ": 1
+    },
+    "[\"village's\"]": {
+      " ": 1
+    },
+    "[\"dramas\"]": {
+      ",": 1
+    },
+    "[\"fresh\"]": {
+      " ": 1
+    },
+    "[\"equal\"]": {
+      " ": 1
+    },
+    "[\"barber\"]": {
+      " ": 1
+    },
+    "[\"everyone's\"]": {
+      " ": 3
+    },
+    "[\"hair\"]": {
+      " ": 1
+    },
+    "[\"secrets\"]": {
+      ".": 2
+    },
+    "[\"habits\"]": {
+      " ": 1
+    },
+    "[\"rest\"]": {
+      " ": 1
+    },
+    "[\"system\"]": {
+      ",": 1
+    },
+    "[\"fragile\"]": {
+      " ": 1
+    },
+    "[\"dependable\"]": {
+      ",": 1,
+      " ": 1
+    },
+    "[\"worked\"]": {
+      ".": 1,
+      " ": 1
+    },
+    "[\"coast\"]": {
+      " ": 3
+    },
+    "[\"faster\"]": {
+      " ": 1,
+      ".": 1
+    },
+    "[\"forecast\"]": {
+      " ": 1
+    },
+    "[\"practiced\"]": {
+      " ": 1
+    },
+    "[\"scramble\"]": {
+      ".": 1
+    },
+    "[\"Boats\"]": {
+      " ": 1
+    },
+    "[\"boarded\"]": {
+      ",": 1
+    },
+    "[\"livestock\"]": {
+      " ": 1
+    },
+    "[\"resignation\"]": {
+      " ": 1
+    },
+    "[\"creatures\"]": {
+      " ": 1
+    },
+    "[\"At\"]": {
+      " ": 1
+    },
+    "[\"height\"]": {
+      " ": 1
+    },
+    "[\"rain\"]": {
+      " ": 1
+    },
+    "[\"sideways\"]": {
+      " ": 1
+    },
+    "[\"hind\"]": {
+      " ": 1
+    },
+    "[\"legs\"]": {
+      " ": 1
+    },
+    "[\"roared\"]": {
+      ".": 1
+    },
+    "[\"timers\"]": {
+      " ": 1
+    },
+    "[\"unbothered\"]": {
+      ",": 1
+    },
+    "[\"timing\"]": {
+      " ": 1
+    },
+    "[\"gusts\"]": {
+      " ": 1
+    },
+    "[\"memories\"]": {
+      " ": 2,
+      ".": 1
+    },
+    "[\"pale\"]": {
+      " ": 1
+    },
+    "[\"truce\"]": {
+      ",": 1
+    },
+    "[\"carefully\"]": {
+      ",": 1
+    },
+    "[\"losses\"]": {
+      ".": 1
+    },
+    "[\"standing\"]": {
+      " ": 1
+    },
+    "[\"Sunday\"]": {
+      " ": 2
+    },
+    "[\"share\"]": {
+      " ": 1
+    },
+    "[\"birthday\"]": {
+      " ": 1
+    },
+    "[\"outlived\"]": {
+      " ": 2
+    },
+    "[\"occasion\"]": {
+      ",": 1
+    },
+    "[\"becoming\"]": {
+      " ": 1
+    },
+    "[\"pulse\"]": {
+      " ": 1
+    },
+    "[\"visits\"]": {
+      ".": 1,
+      ",": 1
+    },
+    "[\"called\"]": {
+      " ": 2
+    },
+    "[\"surplus\"]": {
+      " ": 1
+    },
+    "[\"mentioned\"]": {
+      " ": 1
+    },
+    "[\"emptiness\"]": {
+      " ": 1
+    },
+    "[\"really\"]": {
+      " ": 2
+    },
+    "[\"solitude\"]": {
+      ".": 1
+    },
+    "[\"recipe\"]": {
+      " ": 1
+    },
+    "[\"keeper's\"]": {
+      " ": 1
+    },
+    "[\"drawbridge\"]": {
+      ",": 1
+    },
+    "[\"hourly\"]": {
+      " ": 1
+    },
+    "[\"rising\"]": {
+      " ": 1
+    },
+    "[\"road\"]": {
+      ".": 1,
+      ",": 1,
+      " ": 1
+    },
+    "[\"operated\"]": {
+      " ": 1
+    },
+    "[\"Ships\"]": {
+      " ": 1
+    },
+    "[\"according\"]": {
+      " ": 1
+    },
+    "[\"saluted\"]": {
+      " ": 1
+    },
+    "[\"fifty\"]": {
+      " ": 2
+    },
+    "[\"forgotten\"]": {
+      " ": 1
+    },
+    "[\"ways\"]": {
+      ".": 1
+    },
+    "[\"townspeople\"]": {
+      " ": 1
+    },
+    "[\"raising\"]": {
+      " ": 1
+    },
+    "[\"orchard's\"]": {
+      " ": 1
+    },
+    "[\"oldest\"]": {
+      " ": 1
+    },
+    "[\"struck\"]": {
+      " ": 1
+    },
+    "[\"lightning\"]": {
+      " ": 1
+    },
+    "[\"sort\"]": {
+      " ": 2
+    },
+    "[\"majesty\"]": {
+      ".": 1
+    },
+    "[\"trunk\"]": {
+      " ": 1
+    },
+    "[\"hollowed\"]": {
+      " ": 2
+    },
+    "[\"blackened\"]": {
+      " ": 1
+    },
+    "[\"places\"]": {
+      ",": 1
+    },
+    "[\"branches\"]": {
+      " ": 1
+    },
+    "[\"despite\"]": {
+      " ": 1
+    },
+    "[\"rot\"]": {
+      ",": 1
+    },
+    "[\"adults\"]": {
+      " ": 1
+    },
+    "[\"ridiculous\"]": {
+      " ": 1
+    },
+    "[\"defiant\"]": {
+      " ": 1
+    },
+    "[\"pointed\"]": {
+      " ": 1
+    },
+    "[\"wanted\"]": {
+      " ": 3
+    },
+    "[\"persistence\"]": {
+      " ": 1
+    },
+    "[\"seasons\"]": {
+      " ": 2
+    },
+    "[\"backwards\"]": {
+      ",": 1
+    },
+    "[\"trace\"]": {
+      " ": 1
+    },
+    "[\"jars\"]": {
+      " ": 1
+    },
+    "[\"preserves\"]": {
+      " ": 1
+    },
+    "[\"lined\"]": {
+      " ": 2
+    },
+    "[\"pantry\"]": {
+      ",": 1
+    },
+    "[\"darkened\"]": {
+      " ": 1
+    },
+    "[\"shelf\"]": {
+      ".": 1
+    },
+    "[\"woodpile\"]": {
+      " ": 1
+    },
+    "[\"breadth\"]": {
+      " ": 1
+    },
+    "[\"quilts\"]": {
+      ".": 1
+    },
+    "[\"convenience\"]": {
+      ";": 1
+    },
+    "[\"measurement\"]": {
+      " ": 1
+    },
+    "[\"aside\"]": {
+      ".": 1
+    },
+    "[\"woman\"]": {
+      " ": 1
+    },
+    "[\"stored\"]": {
+      " ": 1
+    },
+    "[\"school\"]": {
+      " ": 2
+    },
+    "[\"teacher\"]": {
+      " ": 3
+    },
+    "[\"ages\"]": {
+      ",": 1
+    },
+    "[\"teach\"]": {
+      " ": 1
+    },
+    "[\"helped\"]": {
+      " ": 1
+    },
+    "[\"younger\"]": {
+      " ": 2
+    },
+    "[\"embarrassed\"]": {
+      " ": 1
+    },
+    "[\"Lessons\"]": {
+      " ": 1
+    },
+    "[\"conducted\"]": {
+      " ": 1
+    },
+    "[\"backdrop\"]": {
+      " ": 1
+    },
+    "[\"stove\"]": {
+      ".": 1
+    },
+    "[\"Examinations\"]": {
+      " ": 1
+    },
+    "[\"rare\"]": {
+      " ": 1
+    },
+    "[\"optional\"]": {
+      ",": 1
+    },
+    "[\"examination\"]": {
+      " ": 1
+    },
+    "[\"silently\"]": {
+      ",": 1
+    },
+    "[\"Most\"]": {
+      " ": 1
+    },
+    "[\"clocks\"]": {
+      ",": 2
+    },
+    "[\"interest\"]": {
+      " ": 1
+    },
+    "[\"invite\"]": {
+      " ": 1
+    },
+    "[\"explanation\"]": {
+      " ": 1
+    },
+    "[\"disagreements\"]": {
+      ",": 1
+    },
+    "[\"ticking\"]": {
+      " ": 1
+    },
+    "[\"winding\"]": {
+      " ": 1
+    },
+    "[\"devotion\"]": {
+      ".": 1
+    },
+    "[\"control\"]": {
+      " ": 1
+    },
+    "[\"company\"]": {
+      " ": 1
+    },
+    "[\"moment\"]": {
+      " ": 1
+    },
+    "[\"unobserved\"]": {
+      ".": 1
+    },
+    "[\"ferry\"]": {
+      " ": 1
+    },
+    "[\"crossing\"]": {
+      " ": 2,
+      ".": 1
+    },
+    "[\"existed\"]": {
+      ",": 1
+    },
+    "[\"stubbornness\"]": {
+      " ": 2
+    },
+    "[\"sentiment\"]": {
+      ".": 1
+    },
+    "[\"Cars\"]": {
+      " ": 1
+    },
+    "[\"crew\"]": {
+      " ": 1
+    },
+    "[\"parked\"]": {
+      ".": 1
+    },
+    "[\"feel\"]": {
+      " ": 1
+    },
+    "[\"voyage\"]": {
+      ",": 1
+    },
+    "[\"parenthesis\"]": {
+      " ": 1
+    },
+    "[\"Gulls\"]": {
+      " ": 1
+    },
+    "[\"crumbs\"]": {
+      ",": 1
+    },
+    "[\"engine\"]": {
+      " ": 1
+    },
+    "[\"thrummed\"]": {
+      " ": 1
+    },
+    "[\"note\"]": {
+      " ": 2
+    },
+    "[\"machinery\"]": {
+      ".": 1
+    },
+    "[\"empty\"]": {
+      " ": 2
+    },
+    "[\"comparison\"]": {
+      ",": 1
+    },
+    "[\"preferred\"]": {
+      ".": 1,
+      " ": 1
+    },
+    "[\"date\"]": {
+      ",": 1
+    },
+    "[\"child\"]": {
+      " ": 2
+    },
+    "[\"born\"]": {
+      ".": 1
+    },
+    "[\"grove\"]": {
+      " ": 1
+    },
+    "[\"biography\"]": {
+      ",": 1
+    },
+    "[\"holding\"]": {
+      " ": 1
+    },
+    "[\"story\"]": {
+      ".": 1,
+      " ": 2
+    },
+    "[\"touch\"]": {
+      " ": 2
+    },
+    "[\"dumb\"]": {
+      " ": 1
+    },
+    "[\"planting\"]": {
+      " ": 2
+    },
+    "[\"forgetting\"]": {
+      ".": 1
+    },
+    "[\"tower\"]": {
+      " ": 1
+    },
+    "[\"dominated\"]": {
+      " ": 1
+    },
+    "[\"cathedral\"]": {
+      " ": 1
+    },
+    "[\"dominates\"]": {
+      " ": 1
+    },
+    "[\"city\"]": {
+      ",": 1
+    },
+    "[\"rust\"]": {
+      "-": 1
+    },
+    "[\"striped\"]": {
+      " ": 1
+    },
+    "[\"blunt\"]": {
+      " ": 1
+    },
+    "[\"necessary\"]": {
+      ".": 1
+    },
+    "[\"shadow\"]": {
+      " ": 1,
+      ".": 1
+    },
+    "[\"unhurried\"]": {
+      " ": 1
+    },
+    "[\"pace\"]": {
+      " ": 1
+    },
+    "[\"giant\"]": {
+      " ": 1
+    },
+    "[\"whitewashed\"]": {
+      " ": 1
+    },
+    "[\"painted\"]": {
+      " ": 3
+    },
+    "[\"initials\"]": {
+      " ": 1
+    },
+    "[\"ladder's\"]": {
+      " ": 1
+    },
+    "[\"reach\"]": {
+      ".": 1
+    },
+    "[\"steel\"]": {
+      " ": 1
+    },
+    "[\"belly\"]": {
+      ",": 1
+    },
+    "[\"cool\"]": {
+      " ": 1
+    },
+    "[\"Not\"]": {
+      " ": 1
+    },
+    "[\"beautiful\"]": {
+      ".": 1
+    },
+    "[\"seventy\"]": {
+      " ": 1
+    },
+    "[\"French\"]": {
+      ",": 1
+    },
+    "[\"practical\"]": {
+      " ": 1
+    },
+    "[\"surprised\"]": {
+      " ": 1
+    },
+    "[\"including\"]": {
+      " ": 1
+    },
+    "[\"tutor\"]": {
+      " ": 1
+    },
+    "[\"shared\"]": {
+      " ": 1
+    },
+    "[\"bewilderment\"]": {
+      ".": 1
+    },
+    "[\"Progress\"]": {
+      " ": 1
+    },
+    "[\"impossible\"]": {
+      " ": 1
+    },
+    "[\"verbs\"]": {
+      ".": 1
+    },
+    "[\"beginner\"]": {
+      " ": 1
+    },
+    "[\"unsteady\"]": {
+      " ": 1
+    },
+    "[\"willing\"]": {
+      ".": 1
+    },
+    "[\"feeling\"]": {
+      " ": 1
+    },
+    "[\"large\"]": {
+      " ": 1
+    },
+    "[\"honest\"]": {
+      ",": 1,
+      " ": 1
+    },
+    "[\"mill\"]": {
+      " ": 3
+    },
+    "[\"geese\"]": {
+      " ": 1
+    },
+    "[\"wheel\"]": {
+      ",": 1
+    },
+    "[\"bound\"]": {
+      " ": 1
+    },
+    "[\"weeds\"]": {
+      ",": 1
+    },
+    "[\"move\"]": {
+      " ": 1
+    },
+    "[\"miller's\"]": {
+      " ": 1
+    },
+    "[\"postbox\"]": {
+      " ": 1
+    },
+    "[\"name\"]": {
+      " ": 3,
+      ",": 1
+    },
+    "[\"visitors\"]": {
+      " ": 1
+    },
+    "[\"Perhaps\"]": {
+      " ": 1
+    },
+    "[\"grain\"]": {
+      ",": 1,
+      " ": 1
+    },
+    "[\"scent\"]": {
+      " ": 1
+    },
+    "[\"carry\"]": {
+      " ": 1
+    },
+    "[\"notebook\"]": {
+      " ": 1
+    },
+    "[\"answers\"]": {
+      " ": 2
+    },
+    "[\"list\"]": {
+      " ": 1
+    },
+    "[\"grew\"]": {
+      " ": 1
+    },
+    "[\"troubling\"]": {
+      " ": 1
+    },
+    "[\"Where\"]": {
+      " ": 1
+    },
+    "[\"eels\"]": {
+      " ": 1
+    },
+    "[\"dream\"]": {
+      " ": 1
+    },
+    "[\"?\"]": {
+      " ": 1
+    },
+    "[\"unanswered\"]": {
+      " ": 1
+    },
+    "[\"spark\"]": {
+      " ": 1
+    },
+    "[\"completed\"]": {
+      " ": 1
+    },
+    "[\"collection\"]": {
+      ",": 1
+    },
+    "[\"So\"]": {
+      " ": 1
+    },
+    "[\"added\"]": {
+      " ": 1
+    },
+    "[\"gladly\"]": {
+      ",": 1
+    },
+    "[\"mysteries\"]": {
+      " ": 1
+    },
+    "[\"ink\"]": {
+      ".": 1
+    },
+    "[\"policeman\"]": {
+      " ": 1
+    },
+    "[\"arrest\"]": {
+      " ": 1
+    },
+    "[\"regarded\"]": {
+      " ": 1
+    },
+    "[\"either\"]": {
+      " ": 1
+    },
+    "[\"indictment\"]": {
+      " ": 1
+    },
+    "[\"tribute\"]": {
+      ".": 1
+    },
+    "[\"bench\"]": {
+      " ": 3
+    },
+    "[\"outside\"]": {
+      " ": 1
+    },
+    "[\"shopkeepers\"]": {
+      " ": 1
+    },
+    "[\"hours\"]": {
+      ",": 2
+    },
+    "[\"dogs\"]": {
+      " ": 1
+    },
+    "[\"allowed\"]": {
+      " ": 1
+    },
+    "[\"lawless\"]": {
+      ",": 1
+    },
+    "[\"having\"]": {
+      " ": 1
+    },
+    "[\"orderly\"]": {
+      ".": 1
+    },
+    "[\"train\"]": {
+      " ": 1
+    },
+    "[\"lullaby\"]": {
+      ",": 1
+    },
+    "[\"beside\"]": {
+      " ": 1
+    },
+    "[\"sleep\"]": {
+      " ": 2
+    },
+    "[\"elsewhere\"]": {
+      ".": 1,
+      ",": 1
+    },
+    "[\"heartbeat\"]": {
+      ",": 1
+    },
+    "[\"shivered\"]": {
+      " ": 1
+    },
+    "[\"dreams\"]": {
+      ",": 1
+    },
+    "[\"landmark\"]": {
+      " ": 1
+    },
+    "[\"going\"]": {
+      " ": 1
+    },
+    "[\"wound\"]": {
+      ".": 1
+    },
+    "[\"rescued\"]": {
+      " ": 1
+    },
+    "[\"armchair\"]": {
+      " ": 1
+    },
+    "[\"damp\"]": {
+      " ": 2
+    },
+    "[\"sagging\"]": {
+      " ": 1
+    },
+    "[\"porch\"]": {
+      ".": 1,
+      ",": 1
+    },
+    "[\"rained\"]": {
+      " ": 1
+    },
+    "[\"got\"]": {
+      " ": 2
+    },
+    "[\"inside\"]": {
+      ".": 1
+    },
+    "[\"dried\"]": {
+      ",": 1
+    },
+    "[\"comfortable\"]": {
+      " ": 1
+    },
+    "[\"attributed\"]": {
+      " ": 1
+    },
+    "[\"travels\"]": {
+      ".": 1,
+      ",": 1
+    },
+    "[\"Neighbors\"]": {
+      " ": 1
+    },
+    "[\"throne\"]": {
+      ",": 1
+    },
+    "[\"sunken\"]": {
+      " ": 1
+    },
+    "[\"Nothing\"]": {
+      " ": 1
+    },
+    "[\"maintained\"]": {
+      ",": 1
+    },
+    "[\"performed\"]": {
+      " ": 1
+    },
+    "[\"ceremony\"]": {
+      ".": 1
+    },
+    "[\"Each\"]": {
+      " ": 1
+    },
+    "[\"history\"]": {
+      " ": 1
+    },
+    "[\"contradicted\"]": {
+      " ": 1
+    },
+    "[\"others\"]": {
+      ",": 1
+    },
+    "[\"contradictions\"]": {
+      " ": 1
+    },
+    "[\"satisfaction\"]": {
+      ".": 1
+    },
+    "[\"consensus\"]": {
+      ".": 1
+    },
+    "[\"You\"]": {
+      " ": 1
+    },
+    "[\"arrival\"]": {
+      " ": 1
+    },
+    "[\"departure\"]": {
+      " ": 1
+    },
+    "[\"monument\"]": {
+      " ": 1
+    },
+    "[\"marking\"]": {
+      " ": 1
+    },
+    "[\"shape\"]": {
+      " ": 1
+    },
+    "[\"adding\"]": {
+      " ": 1
+    },
+    "[\"piece\"]": {
+      " ": 2
+    },
+    "[\"take\"]": {
+      ",": 1,
+      " ": 1
+    },
+    "[\"question\"]": {
+      ",": 1
+    },
+    "[\"foghorn\"]": {
+      " ": 1
+    },
+    "[\"shiver\"]": {
+      " ": 1
+    },
+    "[\"reply\"]": {
+      ".": 1
+    },
+    "[\"alarm\"]": {
+      " ": 1
+    },
+    "[\"presence\"]": {
+      ",": 1
+    },
+    "[\"voice\"]": {
+      " ": 1
+    },
+    "[\"announcing\"]": {
+      " ": 1
+    },
+    "[\"here\"]": {
+      " ": 1
+    },
+    "[\"Fishermen\"]": {
+      " ": 1
+    },
+    "[\"steer\"]": {
+      ",": 1
+    },
+    "[\"invisible\"]": {
+      " ": 1
+    },
+    "[\"lacked\"]": {
+      " ": 1
+    },
+    "[\"easier\"]": {
+      " ": 1
+    },
+    "[\"potted\"]": {
+      " ": 1
+    },
+    "[\"plant\"]": {
+      " ": 1,
+      ",": 1
+    },
+    "[\"twenty\"]": {
+      " ": 1
+    },
+    "[\"moving\"]": {
+      " ": 1
+    },
+    "[\"survived\"]": {
+      " ": 1
+    },
+    "[\"overwatering\"]": {
+      " ": 1
+    },
+    "[\"drought\"]": {
+      " ": 1
+    },
+    "[\"forgetfulness\"]": {
+      ".": 1
+    },
+    "[\"remarkable\"]": {
+      " ": 1,
+      ",": 1
+    },
+    "[\"somewhat\"]": {
+      " ": 2
+    },
+    "[\"bedraggled\"]": {
+      " ": 1
+    },
+    "[\"leaning\"]": {
+      ",": 1
+    },
+    "[\"talked\"]": {
+      " ": 1
+    },
+    "[\"superstitiously\"]": {
+      " ": 1
+    },
+    "[\"speaks\"]": {
+      " ": 1
+    },
+    "[\"term\"]": {
+      " ": 1
+    },
+    "[\"companion\"]": {
+      ".": 1
+    },
+    "[\"obviously\"]": {
+      ",": 1
+    },
+    "[\"answer\"]": {
+      " ": 2
+    },
+    "[\"fairgrounds\"]": {
+      " ": 1
+    },
+    "[\"stray\"]": {
+      " ": 1
+    },
+    "[\"rubbish\"]": {
+      " ": 1
+    },
+    "[\"ghosts\"]": {
+      " ": 1
+    },
+    "[\"wander\"]": {
+      " ": 1
+    },
+    "[\"finding\"]": {
+      " ": 2
+    },
+    "[\"litter\"]": {
+      " ": 1
+    },
+    "[\"year's\"]": {
+      " ": 1
+    },
+    "[\"Someone\"]": {
+      " ": 1
+    },
+    "[\"glove\"]": {
+      ",": 1
+    },
+    "[\"propped\"]": {
+      " ": 1
+    },
+    "[\"umbrella\"]": {
+      " ": 1
+    },
+    "[\"saw\"]": {
+      " ": 1
+    },
+    "[\"noises\"]": {
+      ",": 1
+    },
+    "[\"season's\"]": {
+      " ": 2
+    },
+    "[\"next\"]": {
+      ".": 1,
+      " ": 1
+    },
+    "[\"September\"]": {
+      ",": 1
+    },
+    "[\"trucks\"]": {
+      " ": 1
+    },
+    "[\"rumble\"]": {
+      " ": 1
+    },
+    "[\"rhythm\"]": {
+      " ": 1
+    },
+    "[\"productivity\"]": {
+      ",": 1
+    },
+    "[\"conversation\"]": {
+      " ": 1,
+      ".": 1
+    },
+    "[\"materials\"]": {
+      ".": 1
+    },
+    "[\"Wood\"]": {
+      " ": 1
+    },
+    "[\"metal\"]": {
+      " ": 1
+    },
+    "[\"rewarded\"]": {
+      " ": 1
+    },
+    "[\"hang\"]": {
+      " ": 1
+    },
+    "[\"whatever\"]": {
+      " ": 2
+    },
+    "[\"regard\"]": {
+      " ": 1
+    },
+    "[\"mild\"]": {
+      " ": 1
+    },
+    "[\"surprise\"]": {
+      " ": 1
+    },
+    "[\"inexplicable\"]": {
+      " ": 1
+    },
+    "[\"untroubled\"]": {
+      " ": 1
+    },
+    "[\"logic\"]": {
+      ",": 1
+    },
+    "[\"ringing\"]": {
+      " ": 1
+    },
+    "[\"bell\"]": {
+      " ": 1,
+      ".": 1
+    },
+    "[\"No\"]": {
+      " ": 2
+    },
+    "[\"must\"]": {
+      " ": 1
+    },
+    "[\"hear\"]": {
+      " ": 1
+    },
+    "[\"measurable\"]": {
+      ",": 1
+    },
+    "[\"change\"]": {
+      " ": 1
+    },
+    "[\"needed\"]": {
+      " ": 1
+    },
+    "[\"telling\"]": {
+      ".": 1
+    },
+    "[\"saying\"]": {
+      " ": 1
+    },
+    "[\"this\"]": {
+      ",": 1
+    },
+    "[\"noting\"]": {
+      ".": 1
+    },
+    "[\"projection\"]": {
+      " ": 1
+    },
+    "[\"screen\"]": {
+      " ": 1
+    },
+    "[\"slides\"]": {
+      " ": 1
+    },
+    "[\"family's\"]": {
+      " ": 1
+    },
+    "[\"none\"]": {
+      " ": 1
+    },
+    "[\"estate\"]": {
+      " ": 1
+    },
+    "[\"sale\"]": {
+      ",": 1
+    },
+    "[\"else's\"]": {
+      " ": 1
+    },
+    "[\"holidays\"]": {
+      ",": 1
+    },
+    "[\"intensity\"]": {
+      ".": 1
+    },
+    "[\"summers\"]": {
+      " ": 1
+    },
+    "[\"play\"]": {
+      " ": 1
+    },
+    "[\"outgrown\"]": {
+      " ": 1
+    },
+    "[\"photographs\"]": {
+      " ": 1
+    },
+    "[\"genius\"]": {
+      " ": 1
+    },
+    "[\"borrowing\"]": {
+      " ": 1
+    },
+    "[\"nostalgia\"]": {
+      ",": 1
+    },
+    "[\"matter\"]": {
+      " ": 1
+    },
+    "[\"blacksmith\"]": {
+      " ": 1
+    },
+    "[\"forge\"]": {
+      " ": 1
+    },
+    "[\"anvil\"]": {
+      " ": 1,
+      ",": 1
+    },
+    "[\"dared\"]": {
+      " ": 1
+    },
+    "[\"dents\"]": {
+      " ": 1
+    },
+    "[\"blows\"]": {
+      ".": 1
+    },
+    "[\"horse\"]": {
+      " ": 1
+    },
+    "[\"shod\"]": {
+      " ": 1
+    },
+    "[\"vouch\"]": {
+      " ": 1
+    },
+    "[\"secret\"]": {
+      " ": 1
+    },
+    "[\"failed\"]": {
+      " ": 1
+    },
+    "[\"attempts\"]": {
+      ",": 1
+    },
+    "[\"scripture\"]": {
+      ",": 1
+    },
+    "[\"signs\"]": {
+      " ": 1
+    },
+    "[\"current\"]": {
+      " ": 1
+    },
+    "[\"snags\"]": {
+      " ": 1
+    },
+    "[\"hid\"]": {
+      ",": 1
+    },
+    "[\"upstream\"]": {
+      ".": 1
+    },
+    "[\"converse\"]": {
+      " ": 1
+    },
+    "[\"giving\"]": {
+      " ": 1
+    },
+    "[\"acknowledge\"]": {
+      " ": 1
+    },
+    "[\"religion\"]": {
+      ",": 1
+    },
+    "[\"regular\"]": {
+      ".": 1
+    },
+    "[\"forced\"]": {
+      " ": 1
+    },
+    "[\"bulbs\"]": {
+      " ": 1
+    },
+    "[\"disregardful\"]": {
+      " ": 1
+    },
+    "[\"frost\"]": {
+      " ": 1
+    },
+    "[\"hope\"]": {
+      " ": 1
+    },
+    "[\"sprouting\"]": {
+      " ": 1
+    },
+    "[\"shortest\"]": {
+      " ": 1
+    },
+    "[\"minute\"]": {
+      " ": 1,
+      ".": 1
+    },
+    "[\"plants\"]": {
+      " ": 1
+    },
+    "[\"steadily\"]": {
+      ",": 1
+    },
+    "[\"lesson\"]": {
+      ".": 1
+    },
+    "[\"rarely\"]": {
+      " ": 1
+    },
+    "[\"families\"]": {
+      " ": 1
+    },
+    "[\"connection\"]": {
+      " ": 1
+    },
+    "[\"proprietor\"]": {
+      " ": 1
+    },
+    "[\"fond\"]": {
+      " ": 1
+    },
+    "[\"aisles\"]": {
+      " ": 1
+    },
+    "[\"narrow\"]": {
+      " ": 1
+    },
+    "[\"shelves\"]": {
+      " ": 1
+    },
+    "[\"lot\"]": {
+      " ": 1
+    },
+    "[\"civic\"]": {
+      " ": 1
+    },
+    "[\"institution\"]": {
+      ",": 1
+    },
+    "[\"transacted\"]": {
+      " ": 1
+    },
+    "[\"interval\"]": {
+      " ": 1
+    },
+    "[\"buying\"]": {
+      " ": 1
+    },
+    "[\"till\"]": {
+      " ": 1
+    },
+    "[\"rang\"]": {
+      ",": 1
+    },
+    "[\"constellations\"]": {
+      " ": 1
+    },
+    "[\"ceiling\"]": {
+      " ": 2
+    },
+    "[\"accuracy\"]": {
+      ".": 1
+    },
+    "[\"stars\"]": {
+      " ": 1
+    },
+    "[\"beautifully\"]": {
+      " ": 1
+    },
+    "[\"dislocations\"]": {
+      ".": 1
+    },
+    "[\"think\"]": {
+      " ": 1
+    },
+    "[\"actual\"]": {
+      " ": 1
+    },
+    "[\"poor\"]": {
+      " ": 1
+    },
+    "[\"copy\"]": {
+      ".": 1
+    },
+    "[\"inverted\"]": {
+      " ": 1
+    },
+    "[\"snowplow\"]": {
+      " ": 1
+    },
+    "[\"relied\"]": {
+      " ": 1
+    },
+    "[\"upon\"]": {
+      ",": 1
+    },
+    "[\"cheered\"]": {
+      " ": 1
+    },
+    "[\"worst\"]": {
+      " ": 1
+    },
+    "[\"driver\"]": {
+      " ": 1
+    },
+    "[\"shapes\"]": {
+      " ": 1
+    },
+    "[\"bridges\"]": {
+      " ": 1
+    },
+    "[\"groan\"]": {
+      ".": 1
+    },
+    "[\"job\"]": {
+      ",": 1
+    },
+    "[\"silent\"]": {
+      " ": 1
+    },
+    "[\"gratitude\"]": {
+      " ": 1
+    },
+    "[\"granted\"]": {
+      ".": 1
+    },
+    "[\"snow\"]": {
+      " ": 1
+    },
+    "[\"thanked\"]": {
+      ",": 1
+    },
+    "[\"likely\"]": {
+      " ": 1
+    },
+    "[\"thanks\"]": {
+      ".": 1
+    },
+    "[\"art\"]": {
+      " ": 1
+    },
+    "[\"talent\"]": {
+      ",": 1
+    },
+    "[\"believed\"]": {
+      " ": 1
+    },
+    "[\"retirement\"]": {
+      ",": 1
+    },
+    "[\"prove\"]": {
+      " ": 1
+    },
+    "[\"enrolled\"]": {
+      " ": 1
+    },
+    "[\"classes\"]": {
+      " ": 1
+    },
+    "[\"recently\"]": {
+      " ": 1
+    },
+    "[\"released\"]": {
+      ".": 1
+    },
+    "[\"Her\"]": {
+      " ": 2
+    },
+    "[\"paintings\"]": {
+      " ": 1
+    },
+    "[\"terrible\"]": {
+      " ": 1,
+      ",": 1
+    },
+    "[\"neither\"]": {
+      " ": 1
+    },
+    "[\"grandchildren\"]": {
+      " ": 1
+    },
+    "[\"pictures\"]": {
+      " ": 1
+    },
+    "[\"reverence\"]": {
+      " ": 1
+    },
+    "[\"usually\"]": {
+      " ": 1
+    },
+    "[\"reserved\"]": {
+      " ": 1
+    },
+    "[\"masterpieces\"]": {
+      ".": 1
+    },
+    "[\"discovered\"]": {
+      " ": 2
+    },
+    "[\"fail\"]": {
+      ",": 1
+    },
+    "[\"valuable\"]": {
+      " ": 1
+    },
+    "[\"rarer\"]": {
+      ".": 1
+    },
+    "[\"pools\"]": {
+      " ": 2,
+      ",": 1
+    },
+    "[\"base\"]": {
+      " ": 1
+    },
+    "[\"cliff\"]": {
+      " ": 1
+    },
+    "[\"children's\"]": {
+      " ": 1
+    },
+    "[\"laboratory\"]": {
+      " ": 1
+    },
+    "[\"setting\"]": {
+      " ": 1
+    },
+    "[\"theories\"]": {
+      ".": 1
+    },
+    "[\"Starfish\"]": {
+      " ": 1
+    },
+    "[\"rock\"]": {
+      " ": 1
+    },
+    "[\"statements\"]": {
+      ",": 1
+    },
+    "[\"anemone\"]": {
+      " ": 1
+    },
+    "[\"waved\"]": {
+      " ": 1
+    },
+    "[\"tentacles\"]": {
+      " ": 1
+    },
+    "[\"observations\"]": {
+      " ": 1
+    },
+    "[\"grander\"]": {
+      " ": 1
+    },
+    "[\"conclusions\"]": {
+      ",": 1
+    },
+    "[\"Their\"]": {
+      " ": 1
+    },
+    "[\"parents\"]": {
+      " ": 1
+    },
+    "[\"dinner\"]": {
+      ",": 1
+    },
+    "[\"waited\"]": {
+      " ": 1
+    }
+  }
+}

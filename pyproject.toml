@@ -1,0 +1,19 @@
+[project]
+name = "custom-llm"
+version = "0.1.0"
+description = "Add your description here"
+authors = [
+    { name = "Simone Tesini", email = "simone.tesini.ext@wuerth-it.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.5.2",
+    "torch>=2.13.0",
+]
+
+[project.scripts]
+custom-llm = "custom_llm:main"
+
+[build-system]
+requires = ["uv_build>=0.12.3,<0.13.0"]
+build-backend = "uv_build"
